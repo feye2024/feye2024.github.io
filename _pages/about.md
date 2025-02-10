@@ -25,10 +25,12 @@ My research aims to advance the integration of physics, statistics, and modern A
 
 **Ph.D. Students Position Opening:** *I am actively* **looking for Ph.D. students** *starting in Fall 2025. Applicants with backgrounds in engineering, statistics, computer science, or related fields and strong coding skills are encouraged to apply. If interested, please email me your CV, transcript, and any additional materials that highlight your qualifications. Use **“Ph.D. Application – [Your Name]”** as the email subject. For more information, please check the Ph.D. programs in* [*IE*](https://www.clemson.edu/cecas/departments/ie/index.html)*.*
 
+<span class='anchor' id='-news'></span>
+
 # 🔥 <font color="#4A708B">News</font>
 - *2025.01*: I will join [Clemson IE](https://www.clemson.edu/cecas/departments/ie/index.html) <img src="./images/clemson.png" style='width: 1.5em;'> as a tenure-track assistant professor!
 
-
+<span class='anchor' id='-honors-and-awards'></span>
 
 # 🎖 Honors and Awards
 
@@ -119,8 +121,6 @@ Yan Xu, **Yuhao Wu**, Nan Jiang, Tianhe Xu. 2022. 2023SR0222849.<br>
 
 - **Bachelor's thesis:** Research on Water Level Change Monitoring Based on BeiDou Navigation Satellite System. (Advisor: Dr. [Dongliang Guan](https://cge.njtech.edu.cn/info/1045/2861.htm)). Excellent Graduation Thesis Award of Nanjing Tech University. First Prize for Outstanding Graduation Thesis of Undergraduate Geomatics Students in Jiangsu Province.<br>
 
-<span class='anchor' id='-honors-and-awards'></span>
-
 # 💬 <font color="#4A708B">Invited Talks</font>
 
 - **An Integro-Difference Equation Model for Spatio-Temporal Offshore Wind Forecasting**
@@ -159,7 +159,18 @@ Yan Xu, **Yuhao Wu**, Nan Jiang, Tianhe Xu. 2022. 2023SR0222849.<br>
 # 💻 <font color="#4A708B">Teaching</font>
 - From July 2018 to September 2018, I worked as a first grade homeroom teacher (volunteer teaching) at Hanwang Town Second Primary School in Mianzhu City, Sichuan Province, China.
 
+
+
+<span class='anchor' id='-service'></span>
+
+# 🔥 <font color="#4A708B">Service</font>
+
+- *2025.01*: I will join [Clemson IE](https://www.clemson.edu/cecas/departments/ie/index.html) <img src="./images/clemson.png" style='width: 1.5em;'> as a tenure-track assistant professor!
+
+  
+
 <span class='anchor' id='-hobbies'></span>
+
 # 📷 <font color="#4A708B">Hobbies</font>
 
 ## Photography
