@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👨🏻‍🎓<font color="#4A708B">About Me</font>
+# 👨🏻‍🎓 <font color="#4A708B">About Me</font>
 
 I am currently pursuing a Ph.D. in Industrial and Systems Engineering and has obtained a M.Sc. in Statistics at Rutgers-New Brunswick <img src="./images/rutgers.png" style='width: 1.5em;'>. 
 
@@ -108,21 +108,23 @@ My research aims to advance the integration of physics, statistics, and modern A
 
 # 👨🏻‍🏫 <font color="#4A708B">Teaching/Mentoring</font>
 
-- **Instructor** (with full responsibility) 06-07/2022, 2023
+- #### **Instructor** (with full responsibility) 06-07/2022, 2023
 
    Summer 440 EOF Matlab Computer Programming
 
-- **Teaching Assistant** 01/2022 - 05/2022
+  
+
+- #### **Teaching Assistant** 01/2022 - 05/2022
 
   14:540:343: Engineering Economics
 
   14:540:462: Facilities Layout and Materials Handling
 
-- **Student Mentoring**
+- #### **Student Mentoring**
 
-  Master student researchers
+  ###### Master student researchers
 
-  – Cory Petersen 09/2024 - present
+  Cory Petersen 09/2024 - present
 
   Topic: Accessibility Forecasting for Wind Farm Operations Considering Metocean Conditions
 
@@ -130,7 +132,9 @@ My research aims to advance the integration of physics, statistics, and modern A
 
   Topic: A Statistical Deep Learning Approach for Offshore Wind Energy Forecasting
 
-  Undergraduate researchers
+  
+
+  ###### Undergraduate researchers
 
   – Prisha Bhamre (NSF REU) 09/2024 - present
 
@@ -176,10 +180,16 @@ My research aims to advance the integration of physics, statistics, and modern A
 
   
 
-  Memberships:
-  • Institute of Industrial and Systems Engineers (IISE )
-  • Institute for Operations Research and the Management Sciences (INFORMS )
-  • Institute of Electrical and Electronics Engineers (IEEE )
+- **Memberships**:
+  Institute of Industrial and Systems Engineers (IISE )
+
+  Institute for Operations Research and the Management Sciences (INFORMS )
+
+  Institute of Electrical and Electronics Engineers (IEEE )
+
+  
+
+  
 
 
 
@@ -187,10 +197,16 @@ My research aims to advance the integration of physics, statistics, and modern A
 
 # 🏃🏻 <font color="#4A708B">Personal</font>
 
-## Photography
+Outside research, I am all about sports and outdoor adventures! You’ll often find me running marathons,trails and mountains, climbing rocks, or hiking.
 
-<div>
-<img src="../images/photo1.jpg">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; max-width: 800px; margin: auto;">
+    <img src="../images/run1.jpg" width="100%">
+    <img src="../images/run2.jpg" width="100%">
+    <img src="../images/run3.jpg" width="100%">
+    <img src="../images/hike1.jpg" width="100%">
+    <img src="../images/hike2.jpg" width="100%">
+    <img src="../images/hike3.jpg" width="100%">
+    <img src="../images/climb.jpg" width="100%">
+    <img src="../images/volleyball.jpg" width="100%">
 </div>
 
-<font color="#ABABAB">The sunset outside the window of the tallest building at Shandong University (Weihai).</font><br>
