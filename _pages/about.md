@@ -49,12 +49,12 @@ My research aims to advance the integration of physics, statistics, and modern A
 # 📝 <font color="#4A708B">Publications</font>
 > (†: equal contribution, #: corresponding author)
 
-## Research Paper
+## Journal Paper
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAG</div><img src='../images/landsat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Improving the capability of water vapor retrieval from Landsat 8 using ensemble machine learning](https://doi.org/10.1016/j.jag.2023.103407)
 
-**Yuhao Wu**, Nan Jiang, Yan Xu#, et al., 2023. *International Journal of Applied Earth Observation and Geoinformation*. 122, 103407. (JCR Q1, IF7.5).<br>
+**Yuhao Wu**, Nan Jiang, Yan Xu#, et al., 2023. *International Journal of Applied Earth Observation and Geoinformation*. 122, 103407. (JCR Q1, IF7.5).
 
 - The new method uses Gradient Boosting Decision Tree (GBDT) to establish the model between brightness temperature, GNSS-derived PWV, and related surface parameters. 
 - Compared with SWCVR, the GBDT improves the RMSE and availability by 41.99% and 38.3%, respectively.
