@@ -12,14 +12,14 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Teaching"
+    url: "/#-teaching"
+
   - title: "Educations"
     url: "/#-educations"
 
   - title: "Invited Talks"
     url: "/#-invited-talks"
-
-  - title: "Teaching"
-    url: "/#-teaching"
     
   - title: "Hobbies"
     url: "/#-hobbies"
