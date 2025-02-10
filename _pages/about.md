@@ -156,7 +156,7 @@ Yan Xu, **Yuhao Wu**, Nan Jiang, Tianhe Xu. 2022. 2023SR0222849.<br>
 
   *IISE Annual Conference & Expo, New Orleans, LA May 2023*
 
-# 💻 <font color="#4A708B">Internships</font>
+# 💻 <font color="#4A708B">Teaching</font>
 - From July 2018 to September 2018, I worked as a first grade homeroom teacher (volunteer teaching) at Hanwang Town Second Primary School in Mianzhu City, Sichuan Province, China.
 
 <span class='anchor' id='-hobbies'></span>
