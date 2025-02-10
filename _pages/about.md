@@ -56,7 +56,7 @@ My research aims to advance the integration of statistics, physics, and modern A
 # 🏆 <font color="#4A708B">Honors and Awards</font>
 
 - 🥇**First Place**, [IISE QCRE Track Best Student Poster Award](https://soe.rutgers.edu/news/ise-phd-student-wins-best-student-poster-competition-iise-annual-conference), *2024* 
-- 🥇**First Place**, [IISE Energy Systems Track Best Paper Award](https://www.linkedin.com/posts/feng-y-51b3ba252_iiseannual2023-offshorewind-offshorewindenergy-activity-7067279451163611137-qNTu?utm_source=share&utm_medium=member_desktop), *2023* 
+- 🥇**First Place**, [IISE Energy Systems Track Best Paper Award](https://www.linkedin.com/posts/feng-ye-51b3ba252_iiseannual2023-offshorewind-offshorewindenergy-activity-7067279451163611137-S8Bz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5aBWcBmRGppw0q2rC85jjxX3ZSKCev4Jc), *2023* 
 - 🥇**First Place**, [INFORMS Sustainability Cluster Best Student Paper Award](https://academicaffairs.rutgers.edu/njwind/fengye-wins-INFORMS-award), *2022* 
 - New Jersey Wind Institute Fellowship (awarded to 10 graduate students in NJ per year), *2023*
 - Rutgers Climate and Energy Institute (RCEI) Student Support Funding Award, *2024*
