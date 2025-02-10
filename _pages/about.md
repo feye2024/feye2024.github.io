@@ -19,9 +19,18 @@ redirect_from:
 
 # 👨🏻‍🎓 <font color="#4A708B">About Me</font>
 
-I am currently pursuing a Ph.D. in Industrial and Systems Engineering and has obtained a M.Sc. in Statistics at Rutgers-New Brunswick <img src="./images/rutgers.png" style='width: 1.5em;'>. 
+I am currently pursuing a Ph.D. in Industrial and Systems Engineering and has obtained a M.Sc. in Statistics at Rutgers-New Brunswick <img src="./images/rutgers.png" style='width: 1.5em;'>. I am fortunate to work with Dr. [Ahmed Aziz Ezzat](https://sites.rutgers.edu/azizezzat/).
 
-My research aims to advance the integration of physics, statistics, and modern AI/ML by constructing physics-guided data science models for improved renewable energy forecasting and operation. 
+My research aims to advance the integration of statistics, physics, and modern AI/ML by constructing physics-guided data science models for improved renewable energy forecasting and operation.  
+
+##### Research interest:
+
+- Physics-informed Data Science
+- Spatio-temporal Modeling
+- Statistical Deep Learning
+- Forecast-informed Decision Making
+
+
 
 **Ph.D. Students Position Opening:** *I am actively* **looking for Ph.D. students** *starting in Fall 2025. Applicants with backgrounds in engineering, statistics, computer science, or related fields and strong coding skills are encouraged to apply. If interested, please email me your CV, transcript, and any additional materials that highlight your qualifications. Use **“Ph.D. Application – [Your Name]”** as the email subject. For more information, please check the Ph.D. programs in* [*IE*](https://www.clemson.edu/cecas/departments/ie/index.html)*.*
 
@@ -178,7 +187,7 @@ My research aims to advance the integration of physics, statistics, and modern A
 
 <span class='anchor' id='-service'></span>
 
-#  <font color="#4A708B">Professional Service and Membership</font>
+# 📚 <font color="#4A708B">Professional Service and Membership</font>
 
 - **Vice President**: Rutgers INFORMS Student Chapter (Cum Laude Award) 10/2022 - present
 
@@ -204,10 +213,6 @@ My research aims to advance the integration of physics, statistics, and modern A
   Institute of Electrical and Electronics Engineers (IEEE )
 
   
-
-  
-
-
 
 <span class='anchor' id='-personal'></span>
 
