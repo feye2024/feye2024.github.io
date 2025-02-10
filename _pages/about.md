@@ -203,23 +203,19 @@ My research aims to advance the integration of statistics, physics, and modern A
 
 - **Session chair**:
 
-  “Predictive Analytics for Wind Power Generation”, IISE, Montreal, Canada, May 2024
-
-  “Unique Directions in Energy Research”, IISE, Montreal, Canada, May 2024
-
-  “Forecasting and Data Science for Renewable Energy”, INFORMS, Indianapolis, IN, Oct. 2022
+  - *“Predictive Analytics for Wind Power Generation”, IISE, Montreal, Canada, May 2024*
+  - *“Unique Directions in Energy Research”, IISE, Montreal, Canada, May 2024*
+  - *“Forecasting and Data Science for Renewable Energy”, INFORMS, Indianapolis, IN, Oct. 2022*
 
 - **Journal Reviewer for**:
 
-  Technometrics, IISE Transactions, IEEE Transactions on Automation Science and Engineering, IEEE Transactions on Sustainable Energy, Renewable Energy, International Journal of Production Research, Applied Energy, INFORMS Journal on Data Science, Frontiers in Marine Science
+  *Technometrics, IISE Transactions, IEEE Transactions on Automation Science and Engineering, IEEE Transactions on Sustainable Energy, Renewable Energy, International Journal of Production Research, Applied Energy, INFORMS Journal on Data Science, Frontiers in Marine Science*
 
 - **Memberships**:
 
-  Institute of Industrial and Systems Engineers (IISE)
-
-  Institute for Operations Research and the Management Sciences (INFORMS)
-
-  Institute of Electrical and Electronics Engineers (IEEE)
+  - Institute of Industrial and Systems Engineers (IISE)
+  - Institute for Operations Research and the Management Sciences (INFORMS)
+  - Institute of Electrical and Electronics Engineers (IEEE)
 
   
 
