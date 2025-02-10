@@ -220,7 +220,7 @@ Outside research, I am all about sports and outdoor adventures! You’ll often f
     <img src="../images/hike1.jpg" width="100%">
     <img src="../images/hike2.jpg" width="100%">
     <img src="../images/hike3.jpg" width="100%">
-    <img src="../images/climb.jpg" width="100%">
-    <img src="../images/volleyball.jpg" width="100%">
+    <img src="../images/climbing.jpg" width="100%">
+    <img src="../images/volley.jpg" width="100%">
 </div>
 
