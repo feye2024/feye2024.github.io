@@ -52,12 +52,10 @@ My research aims to advance the integration of physics, statistics, and modern A
 ## Journal Paper
 
 1. **F. Ye**, X. Zhang, M. Stein, and A. Ezzat, “[DeepMIDE: A Multivariate Spatio-Temporal Method for Ultra-Scale Offshore Wind Energy Forecasting](https://arxiv.org/abs/2410.20166)”, *Technometrics*, 2024, major revision
-
-​	 - *First Place, 2024 IISE Annual Meeting QCRE Track Best Student Poster Award*
+   - *First Place, 2024 IISE Annual Meeting QCRE Track Best Student Poster Award*
 
 2. **F. Ye**, J. Brodie, T. Miles, and A. Ezzat, “[AIRU-WRF: A Physics-guided Spatio-temporal Wind Forecasting Model and Its Application to the U.S. Mid Atlantic Offshore Wind Energy Areas](https://www.sciencedirect.com/science/article/abs/pii/S0960148123018499)”, *Renewable Energy*, vol. 223, p. 119 934, 2024.
-
-​	 - *First Place, 2022 INFORMS Annual Meeting Sustainability Cluster Best Student Paper Award*
+   - *First Place, 2022 INFORMS Annual Meeting Sustainability Cluster Best Student Paper Award*
 
 3. **F. Ye**, T. Miles, and A. Ezzat, “[Improved Spatio-Temporal Offshore Wind Energy Forecasting with Coastal Upwelling Information](https://www.sciencedirect.com/science/article/pii/S0306261924023948)”, *Applied Energy*, vol 380, p.125010, 2024.
 4. **F. Ye**, and A. Ezzat, “[Icing Detection and Prediction for Wind Turbines Using Multivariate Sensor Data and Machine Learning](https://www.sciencedirect.com/science/article/pii/S0960148124009479)”, *Renewable Energy*, vol. 231, p. 120 879, 2024.
@@ -68,19 +66,18 @@ My research aims to advance the integration of physics, statistics, and modern A
 
 ## Book Chapters
 
-**F. Ye**, T. Miles, and A. Ezzat, Offshore Wind Energy Prediction Using Machine Learning with Multi-Resolution Inputs in book “[Multimodal and Tensor Data Analytics for Industrial Systems Improvement](https://link.springer.com/book/10.1007/978-3-031-53092-0)”, Springer Optimization and Its Application, pp. 167–183, 2024.
+1. **F. Ye**, T. Miles, and A. Ezzat, Offshore Wind Energy Prediction Using Machine Learning with Multi-Resolution Inputs in book “[Multimodal and Tensor Data Analytics for Industrial Systems Improvement](https://link.springer.com/book/10.1007/978-3-031-53092-0)”, Springer Optimization and Its Application, pp. 167–183, 2024.
 
 ## Conference Papers:
 
 1. **F. Ye**, J. Brodie, T. Miles, and A. Ezzat, “[Ultra-Short-Term Probabilistic Wind Forecasting: Can Numerical Weather Predictions Help?](https://ieeexplore.ieee.org/document/10252311)”, In 2023 IEEE Power & Energy Society General Meeting (PESGM), pp.1–5, 2023.
-
-​	 - *First Place, 2023 IISE Annual Meeting Energy Systems Track Best Paper Award*
+   - *First Place, 2023 IISE Annual Meeting Energy Systems Track Best Paper Award*
 
 2. **F. Ye**, and A. Ezzat, “[An Integro-Difference Equation Model for Spatio-Temporal Offshore Wind Forecasting](https://ieeexplore.ieee.org/document/10688765)”, In 2024 IEEE Power & Energy Society General Meeting (PESGM), pp.1–5, 2024.
 
 ## Patent
-- **F. Ye**, J. Brodie, T. Miles, and A. Ezzat, “Techniques to Provide Improved Wind Input for Operating Offshore Wind Turbines” (International Application #: PCT/US23/73816)
-- Z. Zhang, **F. Ye**, C. Zhen and M. Dai, “Remote Data Acquisition and Analysis for Process Diagnosis in the Production Line” (in Chinese, Patent #: CN201810868396.X)
+1. **F. Ye**, J. Brodie, T. Miles, and A. Ezzat, “Techniques to Provide Improved Wind Input for Operating Offshore Wind Turbines” (International Application #: PCT/US23/73816)
+2. Z. Zhang, **F. Ye**, C. Zhen and M. Dai, “Remote Data Acquisition and Analysis for Process Diagnosis in the Production Line” (in Chinese, Patent #: CN201810868396.X)
 
 
 <span class='anchor' id='-invited-talks'></span>
@@ -216,7 +213,7 @@ My research aims to advance the integration of physics, statistics, and modern A
 
 # 🏃🏻 <font color="#4A708B">Personal</font>
 
-Outside research, I am all about sports and outdoor adventures! You’ll often find me running marathons,trails and mountains, climbing rocks, or hiking.
+Outside research, I am all about sports and outdoor adventures! You’ll often find me running marathons,trails and mountains, climbing rocks, or hiking. 🏃🏻🧗🏻‍♂️🚀🏔️🔥
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; max-width: 800px; margin: auto;">
     <img src="../images/run1.jpg" width="100%">
