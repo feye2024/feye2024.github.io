@@ -161,11 +161,11 @@ My research aims to advance the integration of statistics, physics, and modern A
 
   - Cory Petersen 09/2024 - present
 
-  *Topic: Accessibility Forecasting for Wind Farm Operations Considering Metocean Conditions*
+    *Topic: Accessibility Forecasting for Wind Farm Operations Considering Metocean Conditions*
 
   - Xinxi “Chris” Zhang 09/2023 - 05/2024
 
-  *Topic: A Statistical Deep Learning Approach for Offshore Wind Energy Forecasting*
+    *Topic: A Statistical Deep Learning Approach for Offshore Wind Energy Forecasting*
 
   
 
