@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🙋‍♂️ <font color="#4A708B">About Me</font>
+# 👨🏻‍🎓<font color="#4A708B">About Me</font>
 
 I am currently pursuing a Ph.D. in Industrial and Systems Engineering and has obtained a M.Sc. in Statistics at Rutgers-New Brunswick <img src="./images/rutgers.png" style='width: 1.5em;'>. 
 
@@ -32,7 +32,7 @@ My research aims to advance the integration of physics, statistics, and modern A
 
 <span class='anchor' id='-honors-and-awards'></span>
 
-# 🎖 Honors and Awards
+# 🏆 <font color="#4A708B">Honors and Awards</font>
 
 - **First Place**, [IISE QCRE Track Best Student Poster Award](https://soe.rutgers.edu/news/ise-phd-student-wins-best-student-poster-competition-iise-annual-conference), *2024* 
 - **First Place**, [IISE Energy Systems Track Best Paper Award](https://www.linkedin.com/posts/feng-y-51b3ba252_iiseannual2023-offshorewind-offshorewindenergy-activity-7067279451163611137-qNTu?utm_source=share&utm_medium=member_desktop), *2023* 
@@ -44,7 +44,7 @@ My research aims to advance the integration of physics, statistics, and modern A
 - Graduate Student Service Award, Department of Industrial & Systems Engineering, Rutgers University,  *2024*
 - Rutgers University Fellowship, Department of Industrial & Systems Engineering, Rutgers University, *2024*
 
-
+<span class='anchor' id='-publications'></span>
 
 # 📝 <font color="#4A708B">Publications</font>
 > (†: equal contribution, #: corresponding author)
@@ -126,6 +126,7 @@ Yan Xu, **Yuhao Wu**, Nan Jiang, Tianhe Xu. 2022. 2023SR0222849.<br>
 - **An Integro-Difference Equation Model for Spatio-Temporal Offshore Wind Forecasting**
 
   *IEEE Power & Energy Society General Meeting, Seattle, WA July 2024*
+
 - **A Statistical Deep Learning Approach for Offshore Wind Energy Forecasting**
 
   *Rutgers Climate Symposium, New Brunswick, NJ Nov. 2024*
@@ -156,7 +157,12 @@ Yan Xu, **Yuhao Wu**, Nan Jiang, Tianhe Xu. 2022. 2023SR0222849.<br>
 
   *IISE Annual Conference & Expo, New Orleans, LA May 2023*
 
-# 💻 <font color="#4A708B">Teaching</font>
+
+
+<span class='anchor' id='-teaching'></span>
+
+# 👨🏻‍🏫 <font color="#4A708B">Teaching</font>
+
 - From July 2018 to September 2018, I worked as a first grade homeroom teacher (volunteer teaching) at Hanwang Town Second Primary School in Mianzhu City, Sichuan Province, China.
 
 
@@ -169,15 +175,16 @@ Yan Xu, **Yuhao Wu**, Nan Jiang, Tianhe Xu. 2022. 2023SR0222849.<br>
 
   
 
-<span class='anchor' id='-hobbies'></span>
+<span class='anchor' id='-personal'></span>
 
-# 📷 <font color="#4A708B">Hobbies</font>
+# 📷 <font color="#4A708B">Personal</font>
 
 ## Photography
 
 <div>
-<img src="/images/photo1.jpg">
+<img src="./images/photo1.jpg">
 </div>
+
 <font color="#ABABAB">The sunset outside the window of the tallest building at Shandong University (Weihai).</font><br>Photography opened the door to a new world for me: I began to observe the weather, the timing of the rise and fall of the sun and moon, the forecast of sunset, meteors, and the Milky Way. **To see the world, things dangerous to come to, to see behind walls, to draw closer, to find each other and to feel. That is the purpose of life.**<br>
 <div>
 <img src="/images/photo2.jpg">
