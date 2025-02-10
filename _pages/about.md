@@ -79,8 +79,7 @@ My research aims to advance the integration of physics, statistics, and modern A
 Nan Jiang†, **Yuhao Wu†**, Song Li, Yan Xu#, et al., 2024. *Geophysical Research Letters*. 51, e2024GL108681. (JCR Q1, IF=5.3).<br>
 - Here, we carry out the PWV retrieval using the MERSI-LL sensor onboard the FY-3E satellite for the first time.
 - For the results against ground-based GNSS, the total accuracy shows an RMSE of 2.69-3.36 mm as the clouds increase, and correlation coefficients higher than 0.95.
-</div>
-</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESS</div><img src='images/ESS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -88,12 +87,7 @@ Nan Jiang†, **Yuhao Wu†**, Song Li, Yan Xu#, et al., 2024. *Geophysical Rese
 
  Nan Jiang, Zhaorui Gao, **Yuhao Wu**, et al., 2023. *Earth and Space Science*. 10, e2023EA002923. (JCR Q2, IF=3.1). <br>
 - From the tests applied with different satellite systems, we found that BDS-3 has a comparable PWV retrieval performance as global positioning system (GPS), and a better outcome was achieved using the combined data from GPS and BDS-3.
-  </div>
-  </div>
-  </div>
-  </div>
-  </div>
-  </div>
+  
 
 ## Patent
 - **F. Ye**, J. Brodie, T. Miles, and A. Ezzat, “Techniques to Provide Improved Wind Input for Operating Offshore Wind Turbines” (International Application #: PCT/US23/73816)
