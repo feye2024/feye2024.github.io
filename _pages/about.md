@@ -191,7 +191,7 @@ My research aims to advance the integration of statistics, physics, and modern A
 
     *Topic: Defect Detection in Solar Photovoltaic Systems Using UAVs and Machine Learning*
 
-    *<span style="color: rgb(237, 125, 49);">First Place, Best Student Paper Competition at the IEOM’s 8th North American Conference)</span>*
+    *<span style="color: rgb(237, 125, 49);">(First Place, Best Student Paper Competition at the IEOM’s 8th North American Conference)</span>*
 
 
 
