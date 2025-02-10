@@ -23,6 +23,16 @@ I am currently pursuing a Ph.D. in Industrial and Systems Engineering and has ob
 
 My research aims to advance the integration of statistics, physics, and modern AI/ML by constructing physics-guided data science models for improved renewable energy forecasting and operation.  
 
+**Research interest:**
+
+|                                 |                                              |
+| ------------------------------- | -------------------------------------------- |
+| • Physics-informed Data Science | • Statistical Deep Learning                  |
+| • Spatio-temporal Modeling      | • Forecast-informed Decision Making          |
+| • Probabilistic Forecasting     | • Modeling & Analysis for Sustainable Energy |
+
+
+
 ##### Research interest:
 
 - Physics-informed Data Science
@@ -203,9 +213,8 @@ My research aims to advance the integration of statistics, physics, and modern A
 
   Technometrics, IISE Transactions, IEEE Transactions on Automation Science and Engineering, IEEE Transactions on Sustainable Energy, Renewable Energy, International Journal of Production Research, Applied Energy, INFORMS Journal on Data Science, Frontiers in Marine Science
 
-  
-
 - **Memberships**:
+
   Institute of Industrial and Systems Engineers (IISE )
 
   Institute for Operations Research and the Management Sciences (INFORMS )
