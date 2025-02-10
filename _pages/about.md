@@ -32,7 +32,7 @@ My research aims to advance the integration of statistics, physics, and modern A
 
 
 
-**Ph.D. Students Position Opening:** *I am actively* **looking for Ph.D. students** *starting in Fall 2025. Applicants with backgrounds in engineering, statistics, computer science, or related fields and strong coding skills are encouraged to apply. If interested, please email me your CV, transcript, and any additional materials that highlight your qualifications. Use **“Ph.D. Application – [Your Name]”** as the email subject. For more information, please check the Ph.D. programs in* [*IE*](https://www.clemson.edu/cecas/departments/ie/index.html)*.*
+**Ph.D. Students Position Opening:** *I am actively* **looking for Ph.D. students** *starting in Fall 2025. Applicants with backgrounds in engineering, statistics, computer science, or related fields and strong coding skills are encouraged to apply. If interested, please email me your CV, transcript, and any additional materials that highlight your qualifications. Use **“Ph.D. Application – Your Name”** as the email subject. For more information, please check the Ph.D. programs in* [*IE*](https://www.clemson.edu/cecas/departments/ie/index.html)*.*
 
 <span class='anchor' id='-news'></span>
 
@@ -61,10 +61,11 @@ My research aims to advance the integration of statistics, physics, and modern A
 ## Journal Paper
 
 1. **F. Ye**, X. Zhang, M. Stein, and A. Ezzat, “[DeepMIDE: A Multivariate Spatio-Temporal Method for Ultra-Scale Offshore Wind Energy Forecasting](https://arxiv.org/abs/2410.20166)”, *Technometrics*, 2024, major revision
-   - *First Place, 2024 IISE Annual Meeting QCRE Track Best Student Poster Award*
+   - *<span style="color: rgb(237, 125, 49);">First Place, 2024 IISE Annual Meeting QCRE Track Best Student Poster Award</span>*
 
 2. **F. Ye**, J. Brodie, T. Miles, and A. Ezzat, “[AIRU-WRF: A Physics-guided Spatio-temporal Wind Forecasting Model and Its Application to the U.S. Mid Atlantic Offshore Wind Energy Areas](https://www.sciencedirect.com/science/article/abs/pii/S0960148123018499)”, *Renewable Energy*, vol. 223, p. 119 934, 2024.
-   - *First Place, 2022 INFORMS Annual Meeting Sustainability Cluster Best Student Paper Award*
+   - *<span style="color: rgb(237, 125, 49);">First Place, 2023 IISE Annual Meeting Energy Systems Track Best Paper Award</span>*
+   - *<span style="color: rgb(237, 125, 49);">First Place, 2022 INFORMS Annual Meeting Sustainability Cluster Best Student Paper Award</span>*
 
 3. **F. Ye**, T. Miles, and A. Ezzat, “[Improved Spatio-Temporal Offshore Wind Energy Forecasting with Coastal Upwelling Information](https://www.sciencedirect.com/science/article/pii/S0306261924023948)”, *Applied Energy*, vol 380, p.125010, 2024.
 4. **F. Ye**, and A. Ezzat, “[Icing Detection and Prediction for Wind Turbines Using Multivariate Sensor Data and Machine Learning](https://www.sciencedirect.com/science/article/pii/S0960148124009479)”, *Renewable Energy*, vol. 231, p. 120 879, 2024.
@@ -80,7 +81,6 @@ My research aims to advance the integration of statistics, physics, and modern A
 ## Conference Papers:
 
 1. **F. Ye**, J. Brodie, T. Miles, and A. Ezzat, “[Ultra-Short-Term Probabilistic Wind Forecasting: Can Numerical Weather Predictions Help?](https://ieeexplore.ieee.org/document/10252311)”, In 2023 IEEE Power & Energy Society General Meeting (PESGM), pp.1–5, 2023.
-   - *First Place, 2023 IISE Annual Meeting Energy Systems Track Best Paper Award*
 
 2. **F. Ye**, and A. Ezzat, “[An Integro-Difference Equation Model for Spatio-Temporal Offshore Wind Forecasting](https://ieeexplore.ieee.org/document/10688765)”, In 2024 IEEE Power & Energy Society General Meeting (PESGM), pp.1–5, 2024.
 
@@ -221,9 +221,9 @@ My research aims to advance the integration of statistics, physics, and modern A
 Outside research, I am all about sports and outdoor adventures! You’ll often find me running marathons,trails and mountains, climbing rocks, or hiking. 🏃🏻🧗🏻‍♂️🚀🏔️🔥
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; max-width: 800px; margin: auto;">
-    <img src="../images/run1.jpg" width="100%">
+    <img src="../images/run1.jpeg" width="100%">
     <img src="../images/hike1.jpg" width="100%"> 
-    <img src="../images/hike2.jpg" width="100%">
+    <img src="../images/hike2.jpeg" width="100%">
     <img src="../images/hike3.jpg" width="100%">
     <img src="../images/climbing.jpeg" width="100%">
     <img src="../images/volley.jpeg" width="100%">
