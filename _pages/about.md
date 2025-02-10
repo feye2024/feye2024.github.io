@@ -23,24 +23,26 @@ I am currently pursuing a Ph.D. in Industrial and Systems Engineering and has ob
 
 My research aims to advance the integration of statistics, physics, and modern AI/ML by constructing physics-guided data science models for improved renewable energy forecasting and operation.  
 
-**Research interest:**
+<strong>Research interest:</strong>
 
-|                                 |                                              |
-| ------------------------------- | -------------------------------------------- |
-| • Physics-informed Data Science | • Statistical Deep Learning                  |
-| • Spatio-temporal Modeling      | • Forecast-informed Decision Making          |
-| • Probabilistic Forecasting     | • Modeling & Analysis for Sustainable Energy |
+<div style="display: flex; justify-content: space-between; max-width: 800px;">
+    <div style="flex: 1; padding-right: 20px;">
+        <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
+            <li>Physics-informed Data Science</li>
+            <li>Spatio-temporal Modeling</li>
+            <li>Probabilistic Forecasting</li>
+        </ul>
+    </div>
+    <div style="flex: 1; padding-left: 20px;">
+        <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
+            <li>Statistical Deep Learning</li>
+            <li>Forecast-informed Decision Making</li>
+            <li>Modeling & Analysis for Sustainable Energy</li>
+        </ul>
+    </div>
+</div>
 
-
-
-##### Research interest:
-
-- Physics-informed Data Science
-- Spatio-temporal Modeling
-- Statistical Deep Learning
-- Forecast-informed Decision Making
-
-
+------
 
 **Ph.D. Students Position Opening:** *I am actively* **looking for Ph.D. students** *starting in Fall 2025. Applicants with backgrounds in engineering, statistics, computer science, or related fields and strong coding skills are encouraged to apply. If interested, please email me your CV, transcript, and any additional materials that highlight your qualifications. Use **“Ph.D. Application – Your Name”** as the email subject. For more information, please check the Ph.D. programs in* [*IE*](https://www.clemson.edu/cecas/departments/ie/index.html)*.*
 
@@ -66,9 +68,7 @@ My research aims to advance the integration of statistics, physics, and modern A
 <span class='anchor' id='-publications'></span>
 
 # 📝 <font color="#4A708B">Publications</font>
-> (†: equal contribution, #: corresponding author)
-
-## Journal Paper
+## Journal Papers
 
 1. **F. Ye**, X. Zhang, M. Stein, and A. Ezzat, “[DeepMIDE: A Multivariate Spatio-Temporal Method for Ultra-Scale Offshore Wind Energy Forecasting](https://arxiv.org/abs/2410.20166)”, *Technometrics*, 2024, major revision
    - *<span style="color: rgb(237, 125, 49);">First Place, 2024 IISE Annual Meeting QCRE Track Best Student Poster Award</span>*
@@ -94,7 +94,7 @@ My research aims to advance the integration of statistics, physics, and modern A
 
 2. **F. Ye**, and A. Ezzat, “[An Integro-Difference Equation Model for Spatio-Temporal Offshore Wind Forecasting](https://ieeexplore.ieee.org/document/10688765)”, In 2024 IEEE Power & Energy Society General Meeting (PESGM), pp.1–5, 2024.
 
-## Patent
+## Patents
 1. **F. Ye**, J. Brodie, T. Miles, and A. Ezzat, “Techniques to Provide Improved Wind Input for Operating Offshore Wind Turbines” (International Application #: PCT/US23/73816)
 2. Z. Zhang, **F. Ye**, C. Zhen and M. Dai, “Remote Data Acquisition and Analysis for Process Diagnosis in the Production Line” (in Chinese, Patent #: CN201810868396.X)
 
@@ -215,11 +215,11 @@ My research aims to advance the integration of statistics, physics, and modern A
 
 - **Memberships**:
 
-  Institute of Industrial and Systems Engineers (IISE )
+  Institute of Industrial and Systems Engineers (IISE)
 
-  Institute for Operations Research and the Management Sciences (INFORMS )
+  Institute for Operations Research and the Management Sciences (INFORMS)
 
-  Institute of Electrical and Electronics Engineers (IEEE )
+  Institute of Electrical and Electronics Engineers (IEEE)
 
   
 
