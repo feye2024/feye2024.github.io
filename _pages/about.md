@@ -59,8 +59,7 @@ My research aims to advance the integration of physics, statistics, and modern A
 - The new method uses Gradient Boosting Decision Tree (GBDT) to establish the model between brightness temperature, GNSS-derived PWV, and related surface parameters. 
 - Compared with SWCVR, the GBDT improves the RMSE and availability by 41.99% and 38.3%, respectively.
 
-</div>
-</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EJRS</div><img src='images/EJRS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -69,8 +68,7 @@ My research aims to advance the integration of physics, statistics, and modern A
 **Yuhao Wu**, Nan Jiang, Yan Xu#, et al., 2024. *Egyptian Journal of Remote Sensing and Space Sciences*. 27, 165-177. (JCR Q2, IF4.4).<br>
 - Different from the normal rainfall, we found that the PWV variation during the Henan rainstorm experienced a unique "accumulation" period.
 - In addition, the PWV in the severely damaged area was 20 mm higher than the average value of the past decade. Ten days after the rainstorm, the surface of this area had subsided by 1.5-3 mm.
-</div>
-</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRL</div><img src='images/GRL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
