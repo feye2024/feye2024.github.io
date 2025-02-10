@@ -50,14 +50,33 @@ My research aims to advance the integration of physics, statistics, and modern A
 > (†: equal contribution, #: corresponding author)
 
 ## Journal Paper
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAG</div><img src='../images/landsat.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Improving the capability of water vapor retrieval from Landsat 8 using ensemble machine learning](https://doi.org/10.1016/j.jag.2023.103407)
 
-**Yuhao Wu**, Nan Jiang, Yan Xu#, et al., 2023. *International Journal of Applied Earth Observation and Geoinformation*. 122, 103407. (JCR Q1, IF7.5).
+1. **F. Ye**, X. Zhang, M. Stein, and A. Ezzat, “[DeepMIDE: A Multivariate Spatio-Temporal Method for Ultra-Scale Offshore Wind Energy Forecasting](https://arxiv.org/abs/2410.20166)”, *Technometrics*, 2024, major revision
 
-- The new method uses Gradient Boosting Decision Tree (GBDT) to establish the model between brightness temperature, GNSS-derived PWV, and related surface parameters. 
-- Compared with SWCVR, the GBDT improves the RMSE and availability by 41.99% and 38.3%, respectively.
+​	 - *First Place, 2024 IISE Annual Meeting QCRE Track Best Student Poster Award*
+
+2. **F. Ye**, J. Brodie, T. Miles, and A. Ezzat, “[AIRU-WRF: A Physics-guided Spatio-temporal Wind Forecasting Model and Its Application to the U.S. Mid Atlantic Offshore Wind Energy Areas](https://www.sciencedirect.com/science/article/abs/pii/S0960148123018499)”, *Renewable Energy*, vol. 223, p. 119 934, 2024.
+
+​	 - *First Place, 2022 INFORMS Annual Meeting Sustainability Cluster Best Student Paper Award*
+
+3. **F. Ye**, T. Miles, and A. Ezzat, “[Improved Spatio-Temporal Offshore Wind Energy Forecasting with Coastal Upwelling Information](https://www.sciencedirect.com/science/article/pii/S0306261924023948)”, *Applied Energy*, vol 380, p.125010, 2024.
+4. **F. Ye**, and A. Ezzat, “[Icing Detection and Prediction for Wind Turbines Using Multivariate Sensor Data and Machine Learning](https://www.sciencedirect.com/science/article/pii/S0960148124009479)”, *Renewable Energy*, vol. 231, p. 120 879, 2024.
+5. **F. Ye**, Z. Zhang, Z. Xia, Y. Zhou and H. Zhang, “[Monitoring and Diagnosis of Multi-channel Profile Data Based on Uncorrelated Multilinear Discriminant Analysis](https://link.springer.com/article/10.1007/s00170-019-03912-x)”, *The International Journal of Advanced Manufacturing Technology*, vol. 103, pp. 4659–4669, 2019.
+6. **F. Ye**, Y. Guo, Z. Xia, Z. Zhang and Y. Zhou, “[Feature Extraction and Process Monitoring of Multi-channel Data in a Forging Process via Sensor Fusion](https://www.tandfonline.com/doi/abs/10.1080/0951192X.2020.1858509)”, *International Journal of Computer Integrated Manufacturing*, vol. 34, no. 1, pp. 95–109, 2021.
+7. Y. Guo, **F. Ye**, Y. Zhou and Z. Zhang, “[Fault Diagnosis of Multi-channel Data in a Forging Process Using the Linear Support Higher-order Tensor Machine](https://www.tandfonline.com/doi/abs/10.1080/0951192X.2020.1780321)”, *International Journal of Computer Integrated Manufacturing*, vol. 33, no. 8, pp. 810–822, 2020.
+   
+
+## Book Chapters
+
+**F. Ye**, T. Miles, and A. Ezzat, Offshore Wind Energy Prediction Using Machine Learning with Multi-Resolution Inputs in book “[Multimodal and Tensor Data Analytics for Industrial Systems Improvement](https://link.springer.com/book/10.1007/978-3-031-53092-0)”, Springer Optimization and Its Application, pp. 167–183, 2024.
+
+## Conference Papers:
+
+1. **F. Ye**, J. Brodie, T. Miles, and A. Ezzat, “[Ultra-Short-Term Probabilistic Wind Forecasting: Can Numerical Weather Predictions Help?](https://ieeexplore.ieee.org/document/10252311)”, In 2023 IEEE Power & Energy Society General Meeting (PESGM), pp.1–5, 2023.
+
+​	 - *First Place, 2023 IISE Annual Meeting Energy Systems Track Best Paper Award*
+
+2. **F. Ye**, and A. Ezzat, “[An Integro-Difference Equation Model for Spatio-Temporal Offshore Wind Forecasting](https://ieeexplore.ieee.org/document/10688765)”, In 2024 IEEE Power & Energy Society General Meeting (PESGM), pp.1–5, 2024.
 
 ## Patent
 - **F. Ye**, J. Brodie, T. Miles, and A. Ezzat, “Techniques to Provide Improved Wind Input for Operating Offshore Wind Turbines” (International Application #: PCT/US23/73816)
