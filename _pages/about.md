@@ -50,7 +50,7 @@ My research aims to advance the integration of physics, statistics, and modern A
 > (†: equal contribution, #: corresponding author)
 
 ## Research Paper
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAG</div><img src='images/landsat.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAG</div><img src='../images/landsat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Improving the capability of water vapor retrieval from Landsat 8 using ensemble machine learning](https://doi.org/10.1016/j.jag.2023.103407)
 
@@ -88,40 +88,21 @@ Nan Jiang†, **Yuhao Wu†**, Song Li, Yan Xu#, et al., 2024. *Geophysical Rese
 
  Nan Jiang, Zhaorui Gao, **Yuhao Wu**, et al., 2023. *Earth and Space Science*. 10, e2023EA002923. (JCR Q2, IF=3.1). <br>
 - From the tests applied with different satellite systems, we found that BDS-3 has a comparable PWV retrieval performance as global positioning system (GPS), and a better outcome was achieved using the combined data from GPS and BDS-3.
-</div>
-</div>
-
-## Software Copyright
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GPRA</div><img src='images/software1.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Batch retrieval software for water vapor based on Beidou/GNSS](https://b23.tv/1DP5ixu)
-
-Yan Xu, **Yuhao Wu**, Nan Jiang, Tianhe Xu. 2022. 2023SR0222849.<br>
-- Support reading of various raw ZTDs such as RTKLIB, Bernese, IGS, RPNT, etc.
-- Quality control of raw ZTD based on dual median filtering algorithm.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GWR</div><img src='images/software2.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[GNSS-SNR water level retrieval software](https://b23.tv/8GL6OGN)
-
-**Yuhao Wu**, Dongliang Guan. 2021. 2021SR1211116.<br>
-- Suitable for multiple systems such as BDS and GPS.
-- Retrieval based on EMD algorithm.
-</div>
-</div>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
 
 ## Patent
-- Method and System for Monitoring Extraordinary Rainstorm on Basis of Multi-source Data. Nan Jiang, **Yuhao Wu**, Yan Xu, Tianhe Xu. 2023. Patent No.: US 11,852,779B1.<br>
+- **F. Ye**, J. Brodie, T. Miles, and A. Ezzat, “Techniques to Provide Improved Wind Input for Operating Offshore Wind Turbines” (International Application #: PCT/US23/73816)
+- Z. Zhang, **F. Ye**, C. Zhen and M. Dai, “Remote Data Acquisition and Analysis for Process Diagnosis in the Production Line” (in Chinese, Patent #: CN201810868396.X)
 
-## Degree Thesis
 
-- **Master's thesis:** Research and Application of Water Vapor Retrieval by Integrating Ground-based GNSS and Spaceborne Thermal Infrared Remote Sensing Data. (Advisor: Dr. [Yan Xu](https://apd.wh.sdu.edu.cn/info/1510/1912.htm)). <br>
+<span class='anchor' id='-invited-talks'></span>
 
-- **Bachelor's thesis:** Research on Water Level Change Monitoring Based on BeiDou Navigation Satellite System. (Advisor: Dr. [Dongliang Guan](https://cge.njtech.edu.cn/info/1045/2861.htm)). Excellent Graduation Thesis Award of Nanjing Tech University. First Prize for Outstanding Graduation Thesis of Undergraduate Geomatics Students in Jiangsu Province.<br>
-
-# 💬 <font color="#4A708B">Invited Talks</font>
+# 💬 <font color="#4A708B">Invited/Conference Presentations</font>
 
 - **An Integro-Difference Equation Model for Spatio-Temporal Offshore Wind Forecasting**
 
@@ -161,45 +142,91 @@ Yan Xu, **Yuhao Wu**, Nan Jiang, Tianhe Xu. 2022. 2023SR0222849.<br>
 
 <span class='anchor' id='-teaching'></span>
 
-# 👨🏻‍🏫 <font color="#4A708B">Teaching</font>
+# 👨🏻‍🏫 <font color="#4A708B">Teaching/Mentoring</font>
 
-- From July 2018 to September 2018, I worked as a first grade homeroom teacher (volunteer teaching) at Hanwang Town Second Primary School in Mianzhu City, Sichuan Province, China.
+- **Instructor** (with full responsibility) 06-07/2022, 2023
+
+   Summer 440 EOF Matlab Computer Programming
+
+- **Teaching Assistant** 01/2022 - 05/2022
+
+  14:540:343: Engineering Economics
+
+  14:540:462: Facilities Layout and Materials Handling
+
+- **Student Mentoring**
+
+  Master student researchers
+
+  – Cory Petersen 09/2024 - present
+
+  Topic: Accessibility Forecasting for Wind Farm Operations Considering Metocean Conditions
+
+  – Xinxi “Chris” Zhang 09/2023 - 05/2024
+
+  Topic: A Statistical Deep Learning Approach for Offshore Wind Energy Forecasting
+
+  Undergraduate researchers
+
+  – Prisha Bhamre (NSF REU) 09/2024 - present
+
+  Topic: A Surrogate Model for Wind Farm Wake Effects
+
+  – Briana Worrell (ARESTY) 09/2024 - present
+
+  Topic: Digital Twins for Offshore Wind Farms
+
+  – Jeeva Ramasamy (NJEDA OSW Fellowship Program) 09/2023 - present
+
+  Topic: Data Science for Offshore Wind Energy Operations and Forecasting
+
+  – Andrei Dimitriu (NJEDA OSW Fellowship Program) 08/2022 - 06/2023
+
+  Topic: Data Analysis & Processing for the Offshore Wind Energy Areas in the Mid-Atlantic
+
+  – Althea Miquela (NSF REU) 08/2022 - 06/2023
+
+  Topic: Defect Detection in Solar Photovoltaic Systems Using UAVs and Machine Learning
+
+  (Winner of the Student Paper Competition at the IEOM’s 8th North American Conference)
 
 
 
 <span class='anchor' id='-service'></span>
 
-# 🔥 <font color="#4A708B">Service</font>
+#  <font color="#4A708B">Professional Service and Membership</font>
 
-- *2025.01*: I will join [Clemson IE](https://www.clemson.edu/cecas/departments/ie/index.html) <img src="./images/clemson.png" style='width: 1.5em;'> as a tenure-track assistant professor!
+- **Vice President**: Rutgers INFORMS Student Chapter (Cum Laude Award) 10/2022 - present
+
+- **Session chair**:
+
+  “Predictive Analytics for Wind Power Generation”, IISE, Montreal, Canada, May 2024
+
+  “Unique Directions in Energy Research”, IISE, Montreal, Canada, May 2024
+
+  “Forecasting and Data Science for Renewable Energy”, INFORMS, Indianapolis, IN, Oct. 2022
+
+- **Journal Reviewer for**:
+
+  Technometrics, IISE Transactions, IEEE Transactions on Automation Science and Engineering, IEEE Transactions on Sustainable Energy, Renewable Energy, International Journal of Production Research, Applied Energy, INFORMS Journal on Data Science, Frontiers in Marine Science
 
   
 
+  Memberships:
+  • Institute of Industrial and Systems Engineers (IISE )
+  • Institute for Operations Research and the Management Sciences (INFORMS )
+  • Institute of Electrical and Electronics Engineers (IEEE )
+
+
+
 <span class='anchor' id='-personal'></span>
 
-# 📷 <font color="#4A708B">Personal</font>
+# 🏃🏻 <font color="#4A708B">Personal</font>
 
 ## Photography
 
 <div>
-<img src="./images/photo1.jpg">
+<img src="../images/photo1.jpg">
 </div>
 
-<font color="#ABABAB">The sunset outside the window of the tallest building at Shandong University (Weihai).</font><br>Photography opened the door to a new world for me: I began to observe the weather, the timing of the rise and fall of the sun and moon, the forecast of sunset, meteors, and the Milky Way. **To see the world, things dangerous to come to, to see behind walls, to draw closer, to find each other and to feel. That is the purpose of life.**<br>
-<div>
-<img src="/images/photo2.jpg">
-</div>
-<br>During my three years in Weihai, I took many meaningful photos and made some friends who took photos together. My camera is *Nikon Z50*, with lenses of *50-250 mm* and *16-50 mm*. In addition, I also have an *Olympus IS-5000* film camera. But in the past year, I have hardly touched them because I have devoted all my time to scientific research.<br>If you like the style of my photos, then we might be kindred spirits. More photos can be viewed on my [Little Red Book](https://www.xiaohongshu.com/user/profile/5b59dc27f7e8b977d3628016).
-
-## Past Hobbies
-
-<div>
-<img src="/images/paint1.jpg">
-</div>
-<font color="#ABABAB">I drew it in high school.</font>
-Before going to college, I was studying sketching and almost became an art student.
-
-<span class='anchor' id='-visitor-map'></span>
-# 🌏️ <font color="#4A708B">Visitor Map</font>
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=375e86&w=370&t=tt&d=6gCLp8H0jUJXTDAgwenOxbDgCEaAvQc8Hgj55t1cF1k&co=9ecdee&cmo=ffbdf7&cmn=fffc2e&ct=000000'></script>
+<font color="#ABABAB">The sunset outside the window of the tallest building at Shandong University (Weihai).</font><br>
