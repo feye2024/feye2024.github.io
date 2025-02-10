@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuhao Wu"
-description              : "Welcome to my homepage. Have a nice day.😀"
-repository               : "wyhgnss/wyhgnss.github.io"
+title                    : "Feng Ye"
+description              : "Ph.D candidate at Rutgers ISE; Incoming assistant professor in Industrial Engineering at Clemson University"
+repository               : "feye2024/feye2024.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuhao Wu"
-  avatar           : "images/fav.png"
-  bio              : "Wuhan University"
-  location         : "Wuhan, China"
+  name             : "Feng Ye"
+  avatar           : "images/fy_profile.jpg"
+  bio              : "Rutgers University"
+  location         : "NJ, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=RlAdMyYAAAAJ&hl=zh-CN"
-  email            : "wyhnbnb@126.com"
-  researchgate     : "https://www.researchgate.net/profile/Yuhao-Wu-9"
+  googlescholar    : "https://scholar.google.com/citations?user=zVMD4PMAAAAJ&hl=en"
+  email            : "feng.ye@rutgers.edu"
+  researchgate     : # "https://www.researchgate.net/profile/Yuhao-Wu-9"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wyhgnss"
+  github           : "feye2024"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,11 +45,11 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-0731-653X"
+  orcid            : # "https://orcid.org/0000-0002-0731-653X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "https://steamcommunity.com/profiles/76561199086586958/"
+  steam            : # "https://steamcommunity.com/profiles/76561199086586958/"
   tumblr           :
   twitter          : 
   vine             :

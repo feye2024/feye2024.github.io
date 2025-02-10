@@ -16,16 +16,17 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+
 # 🙋‍♂️ <font color="#4A708B">About Me</font>
 
-I am currently pursuing a Ph.D. in Industrial and Systems Engineering and has obtained a M.Sc. in Statistics at Rutgers-New Brunswick <img src="/Users/feye/Library/CloudStorage/OneDrive-Personal/my_academic_site0/_pages/includes/images/rutgers.png" style='width: 1.5em;'>. 
+I am currently pursuing a Ph.D. in Industrial and Systems Engineering and has obtained a M.Sc. in Statistics at Rutgers-New Brunswick <img src="./images/rutgers.png" style='width: 1.5em;'>. 
 
 My research aims to advance the integration of physics, statistics, and modern AI/ML by constructing physics-guided data science models for improved renewable energy forecasting and operation. 
 
 **Ph.D. Students Position Opening:** *I am actively* **looking for Ph.D. students** *starting in Fall 2025. Applicants with backgrounds in engineering, statistics, computer science, or related fields and strong coding skills are encouraged to apply. If interested, please email me your CV, transcript, and any additional materials that highlight your qualifications. Use **“Ph.D. Application – [Your Name]”** as the email subject. For more information, please check the Ph.D. programs in* [*IE*](https://www.clemson.edu/cecas/departments/ie/index.html)*.*
 
 # 🔥 <font color="#4A708B">News</font>
-- *2025.01*: I will join [Clemson IE](https://www.clemson.edu/cecas/departments/ie/index.html) <img src="/Users/feye/Library/CloudStorage/OneDrive-Personal/my_academic_site0/_pages/includes/images/clemson.png" style='width: 1.5em;'> as a tenure-track assistant professor!
+- *2025.01*: I will join [Clemson IE](https://www.clemson.edu/cecas/departments/ie/index.html) <img src="./images/clemson.png" style='width: 1.5em;'> as a tenure-track assistant professor!
 
 
 
@@ -154,7 +155,6 @@ Yan Xu, **Yuhao Wu**, Nan Jiang, Tianhe Xu. 2022. 2023SR0222849.<br>
   *IEEE Power & Energy Society General Meeting, Orlando, FL July 2023*
 
   *IISE Annual Conference & Expo, New Orleans, LA May 2023*
-  
 
 # 💻 <font color="#4A708B">Internships</font>
 - From July 2018 to September 2018, I worked as a first grade homeroom teacher (volunteer teaching) at Hanwang Town Second Primary School in Mianzhu City, Sichuan Province, China.
