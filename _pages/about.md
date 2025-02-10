@@ -149,47 +149,49 @@ My research aims to advance the integration of statistics, physics, and modern A
 
 - #### **Teaching Assistant** 01/2022 - 05/2022
 
-  14:540:343: Engineering Economics
+  - 14:540:343: Engineering Economics
 
-  14:540:462: Facilities Layout and Materials Handling
+  - 14:540:462: Facilities Layout and Materials Handling
+
+    
 
 - #### **Student Mentoring**
 
   ###### Master student researchers
 
-  Cory Petersen 09/2024 - present
+  - Cory Petersen 09/2024 - present
 
-  Topic: Accessibility Forecasting for Wind Farm Operations Considering Metocean Conditions
+  *Topic: Accessibility Forecasting for Wind Farm Operations Considering Metocean Conditions*
 
-  – Xinxi “Chris” Zhang 09/2023 - 05/2024
+  - Xinxi “Chris” Zhang 09/2023 - 05/2024
 
-  Topic: A Statistical Deep Learning Approach for Offshore Wind Energy Forecasting
+  *Topic: A Statistical Deep Learning Approach for Offshore Wind Energy Forecasting*
 
   
 
   ###### Undergraduate researchers
 
-  – Prisha Bhamre (NSF REU) 09/2024 - present
+  - Prisha Bhamre (NSF REU) 09/2024 - 12/2024
 
-  Topic: A Surrogate Model for Wind Farm Wake Effects
+    *Topic: A Surrogate Model for Wind Farm Wake Effects*
 
-  – Briana Worrell (ARESTY) 09/2024 - present
+  - Briana Worrell (ARESTY) 09/2024 - present
 
-  Topic: Digital Twins for Offshore Wind Farms
+    *Topic: Digital Twins for Offshore Wind Farms*
 
-  – Jeeva Ramasamy (NJEDA OSW Fellowship Program) 09/2023 - present
+  - Jeeva Ramasamy (NJEDA OSW Fellowship Program) 09/2023 - present
 
-  Topic: Data Science for Offshore Wind Energy Operations and Forecasting
+    *Topic: Data Science for Offshore Wind Energy Operations and Forecasting*
 
-  – Andrei Dimitriu (NJEDA OSW Fellowship Program) 08/2022 - 06/2023
+  - Andrei Dimitriu (NJEDA OSW Fellowship Program) 08/2022 - 06/2023
 
-  Topic: Data Analysis & Processing for the Offshore Wind Energy Areas in the Mid-Atlantic
+    *Topic: Data Analysis & Processing for the Offshore Wind Energy Areas in the Mid-Atlantic*
 
-  – Althea Miquela (NSF REU) 08/2022 - 06/2023
+  - Althea Miquela (NSF REU) 08/2022 - 06/2023
 
-  Topic: Defect Detection in Solar Photovoltaic Systems Using UAVs and Machine Learning
+    *Topic: Defect Detection in Solar Photovoltaic Systems Using UAVs and Machine Learning*
 
-  (Winner of the Student Paper Competition at the IEOM’s 8th North American Conference)
+    *<span style="color: rgb(237, 125, 49);">First Place, Best Student Paper Competition at the IEOM’s 8th North American Conference)</span>*
 
 
 
