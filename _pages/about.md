@@ -49,7 +49,7 @@ My research aims to advance the integration of statistics, physics, and modern A
 <span class='anchor' id='-news'></span>
 
 # 🔥 <font color="#4A708B">News</font>
-- *2025.01*: I will join [Clemson IE](https://www.clemson.edu/cecas/departments/ie/index.html) <img src="./images/clemson.png" style='width: 1.5em;'> as a tenure-track assistant professor!
+- *2025.01*: I will join [Clemson IE](https://www.clemson.edu/cecas/departments/ie/index.html) <img src="./images/clemson.png" style='width: 1.5em;'> as a Tenure-track Assistant Professor!
 
 <span class='anchor' id='-honors-and-awards'></span>
 
