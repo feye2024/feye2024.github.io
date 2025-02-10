@@ -18,19 +18,30 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 🙋‍♂️ <font color="#4A708B">About Me</font>
 
-Here is **Yuhao Wu**. I am a PhD student in the [School of Geodesy and Geomatics](https://www.sgg.whu.edu.cn/) at the [Wuhan University](https://en.whu.edu.cn/). My research interests includes GNSS meteorology, tropospheric modeling, and weather forecasting. My current research focus is on water vapor retrieval based on GNSS and remote sensing. In a word, advanced technologies like GNSS influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+I am currently pursuing a Ph.D. in Industrial and Systems Engineering and has obtained a M.Sc. in Statistics at Rutgers-New Brunswick <img src="/Users/feye/Library/CloudStorage/OneDrive-Personal/my_academic_site0/_pages/includes/images/rutgers.png" style='width: 1.5em;'>. 
 
-I have published more than 10 papers at the journals with total <a href='https://scholar.google.com/citations?user=RlAdMyYAAAAJ&hl=zh-CN'>google scholar citations <strong><span id='total_cit'>50+</span></strong></a>. If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - <u>wyhnbnb@126.com</u>
+My research aims to advance the integration of physics, statistics, and modern AI/ML by constructing physics-guided data science models for improved renewable energy forecasting and operation. 
 
-**<font color="#990000">I am actively seeking a position as a university lecturer in 2028. If you have any information, please contact me!</font>**
+**Ph.D. Students Position Opening:** *I am actively* **looking for Ph.D. students** *starting in Fall 2025. Applicants with backgrounds in engineering, statistics, computer science, or related fields and strong coding skills are encouraged to apply. If interested, please email me your CV, transcript, and any additional materials that highlight your qualifications. Use **“Ph.D. Application – [Your Name]”** as the email subject. For more information, please check the Ph.D. programs in* [*IE*](https://www.clemson.edu/cecas/departments/ie/index.html)*.*
 
 # 🔥 <font color="#4A708B">News</font>
-- *2024.11*: &nbsp;🎉🎉 Our team won the second prize in the [China post-graduate mathematical contest in modeling](https://cpipc.acge.org.cn//cw/detail/4/2c9080159353177f0193536864dc0048) (Top 4%). 
-- *2024.09*: &nbsp;🎉🎉 Very happy to continue my doctoral studies in engineering at Wuhan University! 
-- *2024.06*: &nbsp;🎉🎉 Very excited to get a Master's degree in Science at Shandong University!
-- *2024.02*: &nbsp;🎉🎉 My research paper on rainstorm in Henan has been accepted by EJRS!
-- *2023.12*: &nbsp;🎉🎉 Very excited to be selected as Outstanding Graduate of Shandong University!
-- *2023.11*: &nbsp;🎉🎉 Very pleased to be awarded the National Scholarship at Shandong University!
+- *2025.01*: I will join [Clemson IE](https://www.clemson.edu/cecas/departments/ie/index.html) <img src="/Users/feye/Library/CloudStorage/OneDrive-Personal/my_academic_site0/_pages/includes/images/clemson.png" style='width: 1.5em;'> as a tenure-track assistant professor!
+
+
+
+# 🎖 Honors and Awards
+
+- **First Place**, [IISE QCRE Track Best Student Poster Award](https://soe.rutgers.edu/news/ise-phd-student-wins-best-student-poster-competition-iise-annual-conference), *2024* 
+- **First Place**, [IISE Energy Systems Track Best Paper Award](https://www.linkedin.com/posts/feng-y-51b3ba252_iiseannual2023-offshorewind-offshorewindenergy-activity-7067279451163611137-qNTu?utm_source=share&utm_medium=member_desktop), *2023* 
+- **First Place**, [INFORMS Sustainability Cluster Best Student Paper Award](https://academicaffairs.rutgers.edu/njwind/fengye-wins-INFORMS-award), *2022* 
+- New Jersey Wind Institute Fellowship (awarded to 10 graduate students in NJ per year), *2023*
+- Rutgers Climate and Energy Institute (RCEI) Student Support Funding Award, *2024*
+- Outstanding Ph.D. Student Award (Research), Department of Industrial & Systems Engineering , Rutgers University, *2024*
+- Research & Travel Award, School of Graduate Studies, Rutgers University, *2024*
+- Graduate Student Service Award, Department of Industrial & Systems Engineering, Rutgers University,  *2024*
+- Rutgers University Fellowship, Department of Industrial & Systems Engineering, Rutgers University, *2024*
+
+
 
 # 📝 <font color="#4A708B">Publications</font>
 > (†: equal contribution, #: corresponding author)
@@ -71,7 +82,7 @@ Nan Jiang†, **Yuhao Wu†**, Song Li, Yan Xu#, et al., 2024. *Geophysical Rese
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESS</div><img src='images/ESS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
  [PWV retrieval performance evaluation for the fresh BDS-3 with multi-source data](https://doi.org/10.1029/2023EA002923)
- 
+
  Nan Jiang, Zhaorui Gao, **Yuhao Wu**, et al., 2023. *Earth and Space Science*. 10, e2023EA002923. (JCR Q2, IF=3.1). <br>
 - From the tests applied with different satellite systems, we found that BDS-3 has a comparable PWV retrieval performance as global positioning system (GPS), and a better outcome was achieved using the combined data from GPS and BDS-3.
 </div>
@@ -108,44 +119,42 @@ Yan Xu, **Yuhao Wu**, Nan Jiang, Tianhe Xu. 2022. 2023SR0222849.<br>
 - **Bachelor's thesis:** Research on Water Level Change Monitoring Based on BeiDou Navigation Satellite System. (Advisor: Dr. [Dongliang Guan](https://cge.njtech.edu.cn/info/1045/2861.htm)). Excellent Graduation Thesis Award of Nanjing Tech University. First Prize for Outstanding Graduation Thesis of Undergraduate Geomatics Students in Jiangsu Province.<br>
 
 <span class='anchor' id='-honors-and-awards'></span>
-# 🏆️ <font color="#4A708B">Honors and Awards</font>
-
-## Scholarships
-
-- *2023.11*: **National Scholarship for Master's Students** (¥20000)<br>
-- *2024.09*: Doctoral Basic Scholarship at Wuhan University (¥10000)<br>
-- *2022.10*: Second Class Scholarship at Shandong University (¥3200)<br>
-- *2021.11*: Third Prize of Outstanding Graduate Student Source Award Fund at Shandong University (¥4000)<br>
-- *2021.10*: Freshman Scholarship at Shandong University (¥3200)<br>
-- *2019.10*: Guoheng Scholarship (¥2000) Established by Guoheng Group
-- *From 2017 to 2021*: First prize scholarship at NJtech (¥3200, **Four times**)
-- *From 2017 to 2021*: Special scholarship at NJtech (¥1600)
-
-## Competitions
-
-- *2024.11*: Second prize in the China post-graduate mathematical contest in modeling (Top 4%) (**National Level**) 
-- *2019.11*: Second Prize in the Remote Sensing Processing Group of the 11th National College GIS Skills Competition (**National Level**) 
-- *2021.05*: First Prize of Jiangsu Province in the 12th Beidou Cup National Youth Science and Technology Innovation Competition (**Provincial Level**) 
-- *2020.04*: Excellent Award in the 7th "Sharing Cup" College Student Science and Technology Sharing Service Innovation Competition (**National Level**) 
-- *2022.04*: Second Prize in Track B and Third Prize in Track O of the Shandong University Astronomy Association Photography Competition
-- *2023.04*: Third Prize in the 5th Graduate Photography Competition of Shandong University
-- *2022.12*: Third Prize in Weihai Network Culture Works Competition
-
-## Honors
-- *2016.05*: Three Good Students in Yunnan Province (**Provincial Level**)
-- *2021.10*: First Prize for Outstanding Graduation Thesis of Undergraduate Geomatics Students in Jiangsu Province (**Provincial Level**)
-- *From 2017 to 2021*: Exemplary individual, Excellent Student Cadre, Excellent League Member, Three Good Students, Excellent Volunteers, Excellent Graduates, and Excellent Graduation Design at NJtech (**School Level**) 
-- *From 2021 to 2024*: Outstanding Communist Youth League Member, Outstanding Graduate, and Annual Outstanding Graduate Student at Shandong University (**School Level**)<br>
-
-# 📖 <font color="#4A708B">Educations</font>
-- *2024.09 - 2028.06 (now)*, Wuhan University, Geodesy and Geomatics Engineering, PhD in Engineering. 
-- *2021.09 - 2024.06*, Shandong University, Master of Science in Geophysics.
-- *2017.09 - 2021.06*, Nanjing Tech University, Bachelor of Engineering in Geodesy and Geomatics. 
 
 # 💬 <font color="#4A708B">Invited Talks</font>
 
-- **Oral:** Analysis of a heavy rainstorm process in Henan, China based on multi-source data. *The XVIII International Congress for Mine Surveying, Xuzhou, China, October 27, 2022*<br>
-- **Poster:** 基于SWCVR算法和集成机器学习的Landsat 8 TIRS水汽反演研究. *第五届中国大地测量和地球物理学学术大会. 中国武汉, 2023.4.22*<br>
+- **An Integro-Difference Equation Model for Spatio-Temporal Offshore Wind Forecasting**
+
+  *IEEE Power & Energy Society General Meeting, Seattle, WA July 2024*
+- **A Statistical Deep Learning Approach for Offshore Wind Energy Forecasting**
+
+  *Rutgers Climate Symposium, New Brunswick, NJ Nov. 2024*
+
+  *INFORMS Annual Meeting, Seattle, WA Oct. 2024*
+
+  *IISE Annual Conference & Expo, Montreal, Canada May 2024*
+
+- **AIRU-WRF: A Physics-guided Spatio-temporal Wind Forecasting Model and Its Application to the U.S. Mid Atlantic Offshore Wind Energy Areas**
+
+  *NAWEA/WindTech 2024 Conference New Brunswick, NJ Oct. 2024*
+
+  *New Jersey Offshore Wind Technology Conference, Newark, NJ Dec. 2023*
+
+  *Rutgers Climate Symposium, New Brunswick, NJ Nov. 2023*
+
+  *INFORMS Annual Meeting, Phoenix, AZ Oct. 2023*
+
+  *Wind Institute Research Symposium, Trenton, NJ Apr. 2023*
+
+  *INFORMS Annual Meeting, Indianapolis, IN Oct. 2022*
+
+  *IISE Annual Conference & Expo, Seattle, WA May 2022*
+
+- **Ultra-Short-Term Probabilistic Wind Forecasting: Can Numerical Weather Predictions Help?**
+
+  *IEEE Power & Energy Society General Meeting, Orlando, FL July 2023*
+
+  *IISE Annual Conference & Expo, New Orleans, LA May 2023*
+  
 
 # 💻 <font color="#4A708B">Internships</font>
 - From July 2018 to September 2018, I worked as a first grade homeroom teacher (volunteer teaching) at Hanwang Town Second Primary School in Mianzhu City, Sichuan Province, China.
