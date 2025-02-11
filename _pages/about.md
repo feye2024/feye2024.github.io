@@ -225,11 +225,13 @@ My research aims to advance the integration of statistics, physics, and modern A
 
 Outside research, I am all about sports and outdoor adventures! You’ll often find me running marathons,trails and mountains, climbing rocks, or hiking. 🏃🏻🧗🏻‍♂️🚀🏔️🔥
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; max-width: 800px; margin: auto;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; max-width: 800px; margin: auto;">
     <img src="../images/run1.jpeg" width="100%">
-    <img src="../images/hike1.jpg" width="100%"> 
     <img src="../images/hike2.jpeg" width="100%">
+    <img src="../images/volley.jpeg" width="100%">  
     <img src="../images/hike3.jpg" width="100%">
     <img src="../images/climbing.jpeg" width="100%">
-    <img src="../images/volley.jpeg" width="100%">
+    <img src="../images/hike1.jpg" width="100%"> 
+
 </div>
+
