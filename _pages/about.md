@@ -201,6 +201,24 @@ My research aims to advance the integration of statistics, physics, and modern A
 
 - **Vice President**: Rutgers INFORMS Student Chapter (Cum Laude Award) 10/2022 - present
 
+  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; max-width: 800px; margin: auto;">
+    <div style="text-align: center;">
+      <img src="../images/volley_team.jpeg" width="100%">
+      <p style="margin-top: 5px; font-size: 14px; color: gray;">Volleyball game 
+  between ISE faculty & students</p>
+  </div>
+  <div style="text-align: center;">
+      <img src="../images/seminar.jpeg" width="100%">
+      <p style="margin-top: 5px; font-size: 14px; color: gray;">Joint seminar with Lehigh 
+  INFORMS Student Chapter</p>
+  </div>
+  <div style="text-align: center;">
+      <img src="../images/cumlaude.jpeg" width="100%">
+      <p style="margin-top: 5px; font-size: 14px; color: gray;">Cum Laude Award from INFORMS
+  </p>
+  </div>
+  </div>
+
 - **Session chair**:
 
   - *“Predictive Analytics for Wind Power Generation”, IISE, Montreal, Canada, May 2024*
@@ -225,13 +243,48 @@ My research aims to advance the integration of statistics, physics, and modern A
 
 Outside research, I am all about sports and outdoor adventures! You’ll often find me running marathons,trails and mountains, climbing rocks, or hiking. 🏃🏻🧗🏻‍♂️🚀🏔️🔥
 
+
+
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; max-width: 800px; margin: auto;">
+  <div style="text-align: center;">
+    <img src="../images/run1.jpeg" width="100%">
+    <p style="margin-top: 5px; font-size: 14px; color: gray;">Philadelphia Marathon -- 3:21:12</p>
+</div>
+<div style="text-align: center;">
+    <img src="../images/hike2.jpeg" width="100%">
+    <!-- No caption for this one -->
+</div>
+<div style="text-align: center;">
+    <img src="../images/volley.jpeg" width="100%">
+    <!-- No caption for this one -->
+</div>
+<div style="text-align: center;">
+    <img src="../images/hike3.jpg" width="100%">
+</div>
+<div style="text-align: center;">
+    <img src="../images/climbing.jpeg" width="100%">
+    <!-- No caption for this one -->
+</div>
+<div style="text-align: center;">
+    <img src="../images/hike1.jpg" width="100%">
+    <!-- No caption for this one -->
+</div>
+</div>
+
+
+
+
+
+
+
+<!-- <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; max-width: 800px; margin: auto;">
     <img src="../images/run1.jpeg" width="100%">
     <img src="../images/hike2.jpeg" width="100%">
     <img src="../images/volley.jpeg" width="100%">  
     <img src="../images/hike3.jpg" width="100%">
     <img src="../images/climbing.jpeg" width="100%">
     <img src="../images/hike1.jpg" width="100%"> 
+</div>-->
 
-</div>
+
 
