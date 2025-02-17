@@ -44,7 +44,7 @@ My research aims to advance the integration of statistics, physics, and modern A
 
 ------
 
-**Ph.D. Students Position Opening:** *I am actively **looking for Ph.D. students** starting in Fall 2025. Applicants with backgrounds in engineering, statistics, computer science, or related fields and strong coding skills are encouraged to apply. If interested, please email me your CV, transcript, and any additional materials that highlight your qualifications. Use **“Ph.D. Application – Your Name”** as the email subject. For more information, please check the Ph.D. programs at Clemson* [*IE*](https://www.clemson.edu/cecas/departments/ie/index.html)*.*
+**Ph.D. Students Position Opening:** *I am actively **looking for Ph.D. students** starting in Fall 2025. Applicants with backgrounds in engineering, statistics, computer science, or related fields and strong coding skills are encouraged to apply. If interested, please email me your CV, transcript, and any additional materials that highlight your qualifications. Use **“Ph.D. Application – Your Name”** as the email subject. For more information, please check the Ph.D. programs at* [*Clemson IE*](https://www.clemson.edu/cecas/departments/ie/index.html)*.*
 
 <span class='anchor' id='-news'></span>
 
