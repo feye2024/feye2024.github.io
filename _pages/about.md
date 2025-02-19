@@ -248,7 +248,7 @@ Outside research, I am all about sports and outdoor adventures! You’ll often f
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; max-width: 800px; margin: auto;">
   <div style="text-align: center;">
     <img src="../images/run1.jpeg" width="100%">
-    <p style="margin-top: 5px; font-size: 14px; color: gray;">Philadelphia Marathon -- 3:21:12</p>
+    <p style="margin-top: 5px; font-size: 14px; color: gray;">Philadelphia Marathon -- 3:20</p>
 </div>
 <div style="text-align: center;">
     <img src="../images/hike2.jpeg" width="100%">
@@ -270,6 +270,7 @@ Outside research, I am all about sports and outdoor adventures! You’ll often f
     <!-- No caption for this one -->
 </div>
 </div>
+
 
 
 
