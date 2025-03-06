@@ -58,7 +58,7 @@ My research aims to advance the integration of statistics, physics, and modern A
   </p>
   </div>
   <div style="text-align: center;">
-      <img src="../images/isea20251.HEIC" width="100%">
+      <img src="../images/isea20251.jpeg" width="100%">
       <p style="margin-top: 5px; font-size: 14px; color: gray;"></p>
   </div>
   </div>
