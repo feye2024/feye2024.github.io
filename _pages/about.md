@@ -49,6 +49,20 @@ My research aims to advance the integration of statistics, physics, and modern A
 <span class='anchor' id='-news'></span>
 
 # 🔥 <font color="#4A708B">News</font>
+- *2025.03*: I attended the 2nd International Symposium on Energy Analytics (ISEA2025) and gave a presentation about our work *DeepMIDE*.
+
+- <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; max-width: 800px; margin: auto;">
+    <div style="text-align: center;">
+      <img src="../images/isea2025.jpeg" width="70%">
+      <p style="margin-top: 5px; font-size: 14px; color: gray;"> 
+  </p>
+  </div>
+  <div style="text-align: center;">
+      <img src="../images/isea20251.HEIC" width="100%">
+      <p style="margin-top: 5px; font-size: 14px; color: gray;"></p>
+  </div>
+  </div>
+
 - *2025.01*: I will join [Clemson IE](https://www.clemson.edu/cecas/departments/ie/index.html) <img src="./images/clemson.png" style='width: 1.5em;'> as a Tenure-track Assistant Professor!
 
 <span class='anchor' id='-honors-and-awards'></span>
