@@ -49,7 +49,7 @@ My research aims to advance the integration of statistics, physics, and modern A
 <span class='anchor' id='-news'></span>
 
 # 🔥 <font color="#4A708B">News</font>
-- *2025.03*: I attended the 2nd International Symposium on Energy Analytics (ISEA2025) and gave a presentation about our work *DeepMIDE*. Thank you for Dr. Tao Hong for organizing this symposium!
+- *2025.03*: I attended the 2nd International Symposium on Energy Analytics (ISEA2025) and gave a presentation about our work *DeepMIDE*. Many thanks to Dr. Tao Hong for organizing the symposium!
 
     <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; max-width: 800px; margin: auto;">
     <div style="text-align: center;">
