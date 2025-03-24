@@ -301,5 +301,5 @@ Outside research, I am all about sports and outdoor adventures! You’ll often f
 
 # 🌏️ <font color="#4A708B">Visitor Map</font>
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=375e86&w=370&t=tt&d=6gCLp8H0jUJXTDAgwenOxbDgCEaAvQc8Hgj55t1cF1k&co=9ecdee&cmo=ffbdf7&cmn=fffc2e&ct=000000'></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=LoO-q-BzWHYT_gXL0REgEEPOqa7tFWnH9y_Ezg58JNI"></script>
 
