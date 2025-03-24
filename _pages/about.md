@@ -282,24 +282,7 @@ Outside research, I am all about sports and outdoor adventures! You’ll often f
 </div>
 
 
-
-
-
-
-
-
-<!-- <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; max-width: 800px; margin: auto;">
-    <img src="../images/run1.jpeg" width="100%">
-    <img src="../images/hike2.jpeg" width="100%">
-    <img src="../images/volley.jpeg" width="100%">  
-    <img src="../images/hike3.jpg" width="100%">
-    <img src="../images/climbing.jpeg" width="100%">
-    <img src="../images/hike1.jpg" width="100%"> 
-</div>-->
-
-
-
 # 🌏️ <font color="#4A708B">Visitor Map</font>
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=LoO-q-BzWHYT_gXL0REgEEPOqa7tFWnH9y_Ezg58JNI'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=LoO-q-BzWHYT_gXL0REgEEPOqa7tFWnH9y_Ezg58JNI&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
 
