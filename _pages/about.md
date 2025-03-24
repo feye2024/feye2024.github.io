@@ -121,7 +121,7 @@ My research aims to advance the integration of statistics, physics, and modern A
 
   - *IEEE Power & Energy Society General Meeting, Seattle, WA July 2024*
 - **A Statistical Deep Learning Approach for Offshore Wind Energy Forecasting**
-  - *International Symposium on Energy Analytics, Charlotte, NC March. 2025*
+  - *International Symposium on Energy Analytics, Charlotte, NC March 2025*
   - *Rutgers Climate Symposium, New Brunswick, NJ Nov. 2024*
   - *INFORMS Annual Meeting, Seattle, WA Oct. 2024*
   - *IISE Annual Conference & Expo, Montreal, Canada May 2024*
@@ -298,4 +298,8 @@ Outside research, I am all about sports and outdoor adventures! You’ll often f
 </div>-->
 
 
+
+# 🌏️ <font color="#4A708B">Visitor Map</font>
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=375e86&w=370&t=tt&d=6gCLp8H0jUJXTDAgwenOxbDgCEaAvQc8Hgj55t1cF1k&co=9ecdee&cmo=ffbdf7&cmn=fffc2e&ct=000000'></script>
 
