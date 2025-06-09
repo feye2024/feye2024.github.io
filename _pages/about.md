@@ -49,6 +49,22 @@ My research aims to advance the integration of statistics, physics, and modern A
 <span class='anchor' id='-news'></span>
 
 # 🔥 <font color="#4A708B">News</font>
+- *2025.06*: I attended IISE Annual Conference & Expo 2025 in Atlanta!
+
+- *2025.05*: 🎓🎓 I have successfully defended my Ph.D. dissertation, titled *“Physics-Guided Spatio-Temporal Data Science Models for Offshore Wind Energy Forecasting.”* Officially, Dr. Ye!
+
+    <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; max-width: 800px; margin: auto;">
+    <div style="text-align: center;">
+      <img src="../images/defense1.jpeg" width="100%">
+      <p style="margin-top: 5px; font-size: 14px; color: gray;"> 
+    </p>
+    </div>
+    <div style="text-align: center;">
+        <img src="../images/defense2.jpeg" width="100%">
+        <p style="margin-top: 5px; font-size: 14px; color: gray;"></p>
+    </div>
+    </div>
+
 - *2025.03*: I attended the 2nd International Symposium on Energy Analytics (ISEA2025) and gave a presentation about our work *DeepMIDE*. Many thanks to Dr. Tao Hong for organizing the symposium!
 
     <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; max-width: 800px; margin: auto;">
@@ -258,7 +274,7 @@ Outside research, I am all about sports and outdoor adventures! You’ll often f
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; max-width: 800px; margin: auto;">
   <div style="text-align: center;">
     <img src="../images/run1.jpeg" width="100%">
-    <p style="margin-top: 5px; font-size: 14px; color: gray;">Philadelphia Marathon -- 3:20</p>
+    <p style="margin-top: 5px; font-size: 14px; color: gray;">Jersey City Half Marathon -- 1:28</p>
 </div>
 <div style="text-align: center;">
     <img src="../images/hike2.jpeg" width="100%">
@@ -280,6 +296,7 @@ Outside research, I am all about sports and outdoor adventures! You’ll often f
     <!-- No caption for this one -->
 </div>
 </div>
+
 
 
 # 🌏️ <font color="#4A708B">Map</font>
