@@ -22,7 +22,7 @@ repository               : "feye2024/feye2024.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/fy_profile.jpg"
+  avatar           : "fy_profile.jpg"
   name             : "Feng Ye"
   pronouns         : # example: "she/her"
   bio              : "Rutgers University"
