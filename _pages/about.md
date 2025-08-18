@@ -49,7 +49,7 @@ My research aims to advance the integration of statistics, physics, and modern A
 <span class='anchor' id='-news'></span>
 
 # 🔥 <font color="#4A708B">News</font>
-- *2025.08*: I joined [Department of Industrial Engineering](https://www.clemson.edu/cecas/departments/ie/index.html) <img src="./images/clemson.png" style='width: 1.5em;'> at Clemson University as a Tenure-track Assistant Professor!
+- *2025.08*: I joined [Department of Industrial Engineering](https://www.clemson.edu/cecas/departments/ie/index.html) at Clemson University <img src="./images/clemson.png" style='width: 1.5em;'> as a Tenure-track Assistant Professor!
 
 - *2025.06*: I attended IISE Annual Conference & Expo 2025 in Atlanta!
 
