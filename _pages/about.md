@@ -187,7 +187,7 @@ My research aims to advance the integration of statistics, physics, and modern A
 
   ###### Master student researchers
 
-  - Cory Petersen 09/2024 - present
+  - Cory Petersen 09/2024 - 06/2025
 
     *Topic: Accessibility Forecasting for Wind Farm Operations Considering Metocean Conditions*
 
@@ -203,11 +203,11 @@ My research aims to advance the integration of statistics, physics, and modern A
 
     *Topic: A Surrogate Model for Wind Farm Wake Effects*
 
-  - Briana Worrell (ARESTY) 09/2024 - present
+  - Briana Worrell (ARESTY) 09/2024 - 06/2025
 
     *Topic: Digital Twins for Offshore Wind Farms*
 
-  - Jeeva Ramasamy (NJEDA OSW Fellowship Program) 09/2023 - present
+  - Jeeva Ramasamy (NJEDA OSW Fellowship Program) 09/2023 - 06/2025
 
     *Topic: Data Science for Offshore Wind Energy Operations and Forecasting*
 
@@ -227,7 +227,7 @@ My research aims to advance the integration of statistics, physics, and modern A
 
 # 📚 <font color="#4A708B">Professional Service and Membership</font>
 
-- **Vice President**: Rutgers INFORMS Student Chapter (Cum Laude Award) 10/2022 - present
+- **Vice President**: Rutgers INFORMS Student Chapter (Cum Laude Award) 10/2022 - 06/2025
 
   <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; max-width: 800px; margin: auto;">
     <div style="text-align: center;">
