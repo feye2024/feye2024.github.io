@@ -19,7 +19,7 @@ redirect_from:
 
 # 👨🏻‍🎓 <font color="#4A708B">About Me</font>
 
-I am a tenure-track Assistant Professor in the Department of Industrial Engineering at Clemson University. I received my Ph.D. in Industrial and Systems Engineering and an M.Sc. in Statistics from Rutgers University–New Brunswick. <img src="./images/rutgers.png" style='width: 1.5em;'>. 
+I am a tenure-track Assistant Professor in the Department of Industrial Engineering at Clemson University<img src="./images/clemson.png" style='width: 1.5em;'>. I received my Ph.D. in Industrial and Systems Engineering and an M.Sc. in Statistics from Rutgers University–New Brunswick. <img src="./images/rutgers.png" style='width: 1.5em;'>. 
 
 My research aims to advance the integration of statistics, physics, and modern AI/ML by constructing physics-guided data science models for sustainable energy and industrial applications.  
 
