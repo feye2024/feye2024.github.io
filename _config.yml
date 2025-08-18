@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Feng Ye"
-description              : "Ph.D. candidate at Rutgers ISE; Incoming Assistant Professor at Clemson IE"
+description              : "Assistant Professor at Clemson IE"
 repository               : "feye2024/feye2024.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Feng Ye"
   avatar           : "images/fy_profile.jpg"
-  bio              : "Rutgers University"
-  location         : "NJ, USA"
+  bio              : "Clemson University"
+  location         : "Clemson, SC, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=zVMD4PMAAAAJ"
-  email            : "feng.ye@rutgers.edu"
+  email            : "fengy@clemson.edu"
   researchgate     : "https://www.researchgate.net/profile/Feng-Ye-49"
   uri              :
   bitbucket        :

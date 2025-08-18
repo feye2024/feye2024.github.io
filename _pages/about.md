@@ -19,9 +19,9 @@ redirect_from:
 
 # 👨🏻‍🎓 <font color="#4A708B">About Me</font>
 
-I am currently pursuing a Ph.D. in Industrial and Systems Engineering and has obtained a M.Sc. in Statistics at Rutgers-New Brunswick <img src="./images/rutgers.png" style='width: 1.5em;'>. I am fortunate to work with Dr. [Ahmed Aziz Ezzat](https://sites.rutgers.edu/azizezzat/).
+I am a tenure-track Assistant Professor in the Department of Industrial Engineering at Clemson University. I received my Ph.D. in Industrial and Systems Engineering and an M.Sc. in Statistics from Rutgers University–New Brunswick. <img src="./images/rutgers.png" style='width: 1.5em;'>. 
 
-My research aims to advance the integration of statistics, physics, and modern AI/ML by constructing physics-guided data science models for improved sustainable energy forecasting and operation.  
+My research aims to advance the integration of statistics, physics, and modern AI/ML by constructing physics-guided data science models for sustainable energy and industrial applications.  
 
 <strong>Research interest:</strong>
 
@@ -44,11 +44,13 @@ My research aims to advance the integration of statistics, physics, and modern A
 
 ------
 
-<span style="color: rgb(237, 125, 49);">**Ph.D. Students Position Opening:**</span> *I am actively **looking for Ph.D. students** starting in Fall 2025 / Spring 2026 . Applicants with backgrounds in engineering, statistics, computer science, or related fields and strong coding skills are encouraged to apply. If interested, please email me your CV, transcript, and any additional materials that highlight your qualifications. Use **“Ph.D. Application – Your Name”** as the email subject. For more information, please check the Ph.D. programs at* [*Clemson IE*](https://www.clemson.edu/cecas/departments/ie/index.html).
+<span style="color: rgb(237, 125, 49);">**Ph.D. Students Position Opening:**</span> *I am actively **looking for Ph.D. students** starting in Spring/Fall 2026 . Applicants with backgrounds in engineering, statistics, computer science, or related fields and strong coding skills are encouraged to apply. If interested, please email me your CV, transcript, and any additional materials that highlight your qualifications. Use **“Ph.D. Application – Your Name”** as the email subject. For more information, please check the Ph.D. programs at* [*Clemson IE*](https://www.clemson.edu/cecas/departments/ie/index.html).
 
 <span class='anchor' id='-news'></span>
 
 # 🔥 <font color="#4A708B">News</font>
+- *2025.08*: I joined [Department of Industrial Engineering](https://www.clemson.edu/cecas/departments/ie/index.html) <img src="./images/clemson.png" style='width: 1.5em;'> at Clemson University as a Tenure-track Assistant Professor!
+
 - *2025.06*: I attended IISE Annual Conference & Expo 2025 in Atlanta!
 
 - *2025.05*: 🎓🎓 I have successfully defended my Ph.D. dissertation, titled *“Physics-Guided Spatio-Temporal Data Science Models for Offshore Wind Energy Forecasting.”* Officially, Dr. Ye!
@@ -100,7 +102,7 @@ My research aims to advance the integration of statistics, physics, and modern A
 # 📝 <font color="#4A708B">Publications</font>
 ## Journal Papers
 
-1. **F. Ye**, X. Zhang, M. Stein, and A. Ezzat, “[DeepMIDE: A Multivariate Spatio-Temporal Method for Ultra-Scale Offshore Wind Energy Forecasting](https://arxiv.org/abs/2410.20166)”, *Technometrics*, 2024, major revision
+1. **F. Ye**, X. Zhang, M. Stein, and A. Ezzat, “[DeepMIDE: A Multivariate Spatio-Temporal Method for Ultra-Scale Offshore Wind Energy Forecasting](https://arxiv.org/abs/2410.20166)”, *Technometrics*, 2025, Under 2nd review
    - *<span style="color: rgb(237, 125, 49);">First Place, 2024 IISE Annual Meeting QCRE Track Best Student Poster Award</span>*
 
 2. **F. Ye**, J. Brodie, T. Miles, and A. Ezzat, “[AIRU-WRF: A Physics-guided Spatio-temporal Wind Forecasting Model and Its Application to the U.S. Mid Atlantic Offshore Wind Energy Areas](https://www.sciencedirect.com/science/article/abs/pii/S0960148123018499)”, *Renewable Energy*, vol. 223, p. 119 934, 2024.
