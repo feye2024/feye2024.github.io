@@ -44,7 +44,7 @@ My research aims to advance the integration of statistics, physics, and modern A
 
 ------
 
-<span style="color: rgb(237, 125, 49);">**Ph.D. Students Position Opening:**</span> *I am actively **looking for Ph.D. students** starting in Spring/Fall 2026 . Applicants with backgrounds in engineering, statistics, computer science, or related fields and strong coding skills are encouraged to apply. If interested, please email me your CV, transcript, and any additional materials that highlight your qualifications to fengye.recruit@gmail.com. Use **“Ph.D. Application – Your Name”** as the email subject. For more information, please check the Ph.D. programs at* [*Clemson IE*](https://www.clemson.edu/cecas/departments/ie/index.html).
+<span style="color: rgb(237, 125, 49);">**Ph.D. Students Position Opening:**</span> *I am actively **looking for Ph.D. students** starting in Spring/Fall 2026 . Applicants with backgrounds in engineering, statistics, computer science, or related fields and strong coding skills are encouraged to apply. If interested, please email me your CV, transcript, and any additional materials that highlight your qualifications to [fengye.recruit@gmail.com](mailto:fengye.recruit@gmail.com). Use **“Ph.D. Application – Your Name”** as the email subject. For more information, please check the Ph.D. programs at* [*Clemson IE*](https://www.clemson.edu/cecas/departments/ie/index.html).
 
 <span class='anchor' id='-news'></span>
 
