@@ -169,15 +169,16 @@ My research aims to advance the integration of statistics, physics, and modern A
 
 # 👨🏻‍🏫 <font color="#4A708B">Teaching/Mentoring</font>
 
-- #### **Instructor** 
+- #### **Instructor**
 
-   ##### @ Clemson
+   - ##### @ Clemson
    
-   - IE 3610: Industrial Applications of Probability and Statistics II, Fall 2025
+      - IE 3610: Industrial Applications of Probability and Statistics II, Fall 2025
    
-   ##### @ Rutgers
+   - ##### @ Rutgers
    
-   - 440 EOF Matlab Computer Programming, Summer 2022/2023
+      - 440 EOF Matlab Computer Programming, Summer 2022/2023
+   
 
   
 
