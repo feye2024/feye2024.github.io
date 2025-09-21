@@ -21,26 +21,27 @@ redirect_from:
 
 I am a tenure-track Assistant Professor in the Department of Industrial Engineering at Clemson University <img src="./images/clemson.png" style='width: 1.5em;'>. I received my Ph.D. in Industrial and Systems Engineering and an M.Sc. in Statistics from Rutgers University–New Brunswick <img src="./images/rutgers.png" style='width: 1.5em;'>. 
 
-My research aims to advance the integration of statistics, physics, and modern AI/ML by constructing physics-guided data science models for sustainable energy and industrial applications.  
+My research aims to advance the integration of modern AI/ML, statistics, and physics by constructing physics-guided data science models for sustainable energy and industrial applications.  
 
 <strong>Research interest:</strong>
 
 <div style="display: flex; justify-content: space-between; max-width: 800px;">
     <div style="flex: 1; padding-right: 20px;">
         <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
-            <li>Physics-informed Data Science</li>
+            <li>Machine Learning</li>
             <li>Spatio-temporal Modeling</li>
             <li>Probabilistic Forecasting</li>
         </ul>
     </div>
     <div style="flex: 1; padding-left: 20px;">
         <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
+          	<li>Physics-informed Data Science</li>
             <li>Statistical Deep Learning</li>
             <li>Forecast-informed Decision Making</li>
-            <li>Modeling & Analysis for Sustainable Energy</li>
         </ul>
     </div>
 </div>
+
 
 ------
 
@@ -49,9 +50,11 @@ My research aims to advance the integration of statistics, physics, and modern A
 <span class='anchor' id='-news'></span>
 
 # 🔥 <font color="#4A708B">News</font>
-- *2025.08*: I joined Department of Industrial Engineering at Clemson University <img src="./images/clemson.png" style='width: 1.5em;'> as a Tenure-track Assistant Professor!
+- *2025.09*: Dr. Feng Ye gave an invited seminar at Clemson University School of Mathematical and Statistical Sciences!
 
-- *2025.06*: I attended IISE Annual Conference & Expo 2025 in Atlanta!
+- *2025.08*: Dr. Feng Ye joined Department of Industrial Engineering at Clemson University <img src="./images/clemson.png" style='width: 1.5em;'> as a Tenure-track Assistant Professor!
+
+- *2025.06*: Dr. Feng Ye attended IISE Annual Conference & Expo 2025 in Atlanta!
 
 - *2025.05*: 🎓🎓 I have successfully defended my Ph.D. dissertation, titled *“Physics-Guided Spatio-Temporal Data Science Models for Offshore Wind Energy Forecasting.”* Officially, Dr. Ye!
 
