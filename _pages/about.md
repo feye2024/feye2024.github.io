@@ -21,7 +21,9 @@ redirect_from:
 
 I am a tenure-track Assistant Professor in the Department of Industrial Engineering at Clemson University <img src="./images/clemson.png" style='width: 1.5em;'>. I received my Ph.D. in Industrial and Systems Engineering and an M.Sc. in Statistics from Rutgers University–New Brunswick <img src="./images/rutgers.png" style='width: 1.5em;'>. 
 
-My research aims to advance the integration of modern AI/ML, statistics, and physics by constructing physics-guided data science models for industrial applications such as energy and manufacturing.
+<!--My research aims to advance the integration of modern AI/ML, statistics, and physics by constructing physics-guided data science models for industrial applications such as energy and manufacturing.-->
+
+My research focuses on AI/ML and statistical modeling for engineering and scientific systems. I develop methods that learn from data while incorporating domain knowledge and governing principles, with applications in energy, weather, and manufacturing.
 
 <strong>Research interest:</strong>
 
@@ -35,12 +37,13 @@ My research aims to advance the integration of modern AI/ML, statistics, and phy
     </div>
     <div style="flex: 1; padding-left: 20px;">
         <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
-          	<li>Physics-informed Data Science</li>
+          	<li>Physics-guided Data Science</li>
             <li>Statistical Deep Learning</li>
             <li>Forecast-informed Decision Making</li>
         </ul>
     </div>
 </div>
+
 
 
 ------
