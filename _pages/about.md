@@ -48,7 +48,7 @@ My research focuses on AI/ML and statistical modeling for engineering and scient
 
 ------
 
-<span style="color: rgb(237, 125, 49);">**Ph.D. Students Position Opening:**</span> *I am actively **looking for Ph.D. students** starting in Spring/Fall 2026 . Applicants with backgrounds in engineering, statistics, computer science, or related fields and strong coding skills are encouraged to apply. If interested, please email me your CV, transcript, and any additional materials that highlight your qualifications to [fengye.recruit@gmail.com](mailto:fengye.recruit@gmail.com). Use **“Ph.D. Application – Your Name – Target Term”** as the email subject. For more information, please check the Ph.D. programs at* [*Clemson IE*](https://www.clemson.edu/cecas/departments/ie/index.html).
+<span style="color: rgb(237, 125, 49);">**Ph.D. Students Position Opening:**</span> *I am actively **looking for Ph.D. students** starting in Fall 2026 . Applicants with backgrounds in engineering, statistics, computer science, or related fields and strong coding skills are encouraged to apply. If interested, please email me your CV, transcript, and any additional materials that highlight your qualifications to [fengye.recruit@gmail.com](mailto:fengye.recruit@gmail.com). Use **“Ph.D. Application – Your Name – Target Term”** as the email subject. For more information, please check the Ph.D. programs at* [*Clemson IE*](https://www.clemson.edu/cecas/departments/ie/index.html).
 
 <span class='anchor' id='-news'></span>
 
@@ -96,7 +96,7 @@ My research focuses on AI/ML and statistical modeling for engineering and scient
 - 🥇**First Place**, [IISE QCRE Track Best Student Poster Award](https://soe.rutgers.edu/news/ise-phd-student-wins-best-student-poster-competition-iise-annual-conference), *2024* 
 - 🥇**First Place**, [IISE Energy Systems Track Best Paper Award](https://www.linkedin.com/posts/feng-ye-51b3ba252_iiseannual2023-offshorewind-offshorewindenergy-activity-7067279451163611137-S8Bz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5aBWcBmRGppw0q2rC85jjxX3ZSKCev4Jc), *2023* 
 - 🥇**First Place**, [INFORMS Sustainability Cluster Best Student Paper Award](https://academicaffairs.rutgers.edu/njwind/fengye-wins-INFORMS-award), *2022* 
-- New Jersey Wind Institute Fellowship (awarded to 10 graduate students in NJ per year), *2023*
+- New Jersey Wind Institute Fellowship, *2023*
 - Rutgers Climate and Energy Institute (RCEI) Student Support Funding Award, *2024*
 - Outstanding Ph.D. Student Award (Research), Department of Industrial & Systems Engineering , Rutgers University, *2024*
 - Research & Travel Award, School of Graduate Studies, Rutgers University, *2024*
@@ -108,7 +108,7 @@ My research focuses on AI/ML and statistical modeling for engineering and scient
 # 📝 <font color="#4A708B">Publications</font>
 ## Journal Papers
 
-1. **F. Ye**, X. Zhang, M. Stein, and A. Ezzat, “[DeepMIDE: A Multivariate Spatio-Temporal Method for Ultra-Scale Offshore Wind Energy Forecasting](https://arxiv.org/abs/2410.20166)”, *Technometrics*, 2025, Under 2nd review
+1. **F. Ye**, X. Zhang, M. Stein, and A. Ezzat, “[DeepMIDE: A Multivariate Spatio-Temporal Method for Ultra-Scale Offshore Wind Energy Forecasting](https://arxiv.org/abs/2410.20166)”, *Technometrics*, 2025, in-press.
    - *<span style="color: rgb(237, 125, 49);">First Place, 2024 IISE Annual Meeting QCRE Track Best Student Poster Award</span>*
 
 2. **F. Ye**, J. Brodie, T. Miles, and A. Ezzat, “[AIRU-WRF: A Physics-guided Spatio-temporal Wind Forecasting Model and Its Application to the U.S. Mid Atlantic Offshore Wind Energy Areas](https://www.sciencedirect.com/science/article/abs/pii/S0960148123018499)”, *Renewable Energy*, vol. 223, p. 119 934, 2024.
@@ -179,6 +179,7 @@ My research focuses on AI/ML and statistical modeling for engineering and scient
 
    - ##### @ Clemson
    
+      - IE 4910/6910: Engineering Data Analytics, Spring 2026
       - IE 3610: Industrial Applications of Probability and Statistics II, Fall 2025
    
    - ##### @ Rutgers
