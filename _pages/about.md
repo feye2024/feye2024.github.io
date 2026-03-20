@@ -23,21 +23,21 @@ I am a tenure-track Assistant Professor in the Department of Industrial Engineer
 
 <!--My research aims to advance the integration of modern AI/ML, statistics, and physics by constructing physics-guided data science models for industrial applications such as energy and manufacturing.-->
 
-My research focuses on AI/ML and statistical modeling for engineering and scientific systems. I develop methods that learn from data while incorporating domain knowledge and governing principles, with applications in energy, weather, and manufacturing.
+My research focuses on AI/ML and statistical modeling for scientific and engineering systems. I develop methods that learn from data while incorporating domain knowledge and governing principles, with applications in weather, energy, and manufacturing.
 
 <strong>Research interest:</strong>
 
 <div style="display: flex; justify-content: space-between; max-width: 800px;">
     <div style="flex: 1; padding-right: 20px;">
         <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
-            <li>Machine Learning</li>
+            <li>Scientific Machine Learning</li>
             <li>Spatio-temporal Modeling</li>
             <li>Probabilistic Forecasting</li>
         </ul>
     </div>
     <div style="flex: 1; padding-left: 20px;">
         <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
-          	<li>Physics-guided Data Science</li>
+          	<li>Physics-guided Generative AI</li>
             <li>Statistical Deep Learning</li>
             <li>Forecast-informed Decision Making</li>
         </ul>
