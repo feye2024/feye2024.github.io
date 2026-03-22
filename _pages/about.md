@@ -53,11 +53,11 @@ My research focuses on AI/ML and statistical modeling for scientific and enginee
 <span class='anchor' id='-news'></span>
 
 # 🔥 <font color="#4A708B">News</font>
-- *2025.09*: Dr. Feng Ye gave an invited seminar at Clemson University School of Mathematical and Statistical Sciences!
+- *2025.09*: Dr. Ye gave an invited seminar at Clemson University School of Mathematical and Statistical Sciences!
 
-- *2025.08*: Dr. Feng Ye joined Department of Industrial Engineering at Clemson University <img src="./images/clemson.png" style='width: 1.5em;'> as a Tenure-track Assistant Professor!
+- *2025.08*: Dr. Ye joined Department of Industrial Engineering at Clemson University <img src="./images/clemson.png" style='width: 1.5em;'> as a Tenure-track Assistant Professor!
 
-- *2025.06*: Dr. Feng Ye attended IISE Annual Conference & Expo 2025 in Atlanta!
+- *2025.06*: Dr. Ye attended IISE Annual Conference & Expo 2025 in Atlanta!
 
 - *2025.05*: 🎓🎓 I have successfully defended my Ph.D. dissertation, titled *“Physics-Guided Spatio-Temporal Data Science Models for Offshore Wind Energy Forecasting.”* Officially, Dr. Ye!
 
