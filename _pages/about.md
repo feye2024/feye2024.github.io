@@ -315,7 +315,8 @@ Outside research, I am all about sports and outdoor adventures! You’ll often f
 
 
 
+{% comment %}
 # 🌏️ <font color="#4A708B">Map</font>
 
 <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&amp;w=300&amp;t=n&amp;d=-2n52Ke8gtYhUBcJisO5cQN_XUrj_LLm4YjZkAo9VhA"></script>
-
+{% endcomment %}
