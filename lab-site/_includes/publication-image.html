@@ -1,0 +1,22 @@
+{% if include.src and include.src != "" %}
+{% assign media_extension = include.src | split: '.' | last | downcase %}
+<div class="publication-image">
+  {% if media_extension == "mp4" %}
+  <video autoplay loop muted playsinline controls preload="metadata" aria-label="{{ include.alt | escape }}">
+    <source src="{{ include.src | relative_url | escape }}" type="video/mp4">
+    <a href="{{ include.src | relative_url | escape }}">View video: {{ include.alt | escape }}</a>
+  </video>
+  {% else %}
+  <img src="{{ include.src | relative_url | escape }}" alt="{{ include.alt | escape }}" loading="lazy" decoding="async">
+  {% endif %}
+</div>
+{% else %}
+<div class="publication-image publication-placeholder" aria-hidden="true">
+  <svg width="40" height="32" viewBox="0 0 40 32" fill="none" stroke="currentColor" stroke-width="1.25" aria-hidden="true" focusable="false">
+    <rect x="1" y="1" width="38" height="30" rx="2" />
+    <circle cx="28" cy="10" r="3" />
+    <path d="M2 26L13 14L23 25L29 19L38 28" />
+  </svg>
+  <span>Image coming soon</span>
+</div>
+{% endif %}

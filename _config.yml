@@ -9,6 +9,9 @@
 title                    : "Feng Ye"
 description              : "Assistant Professor at Clemson IE"
 repository               : "feye2024/feye2024.github.io"
+url                      : "https://feye2024.github.io"
+baseurl                  : ""
+lab_url                  : "https://feye2024.github.io/aire-lab/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -65,7 +68,10 @@ include:
   - _pages
   - files
 exclude:
+  - lab-site
   - docs
+  - scripts
+  - run_server.sh
   - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -77,6 +83,7 @@ exclude:
   - CHANGELOG
   - Capfile
   - Gemfile
+  - Gemfile.lock
   - Gruntfile.js
   - LICENSE
   - README

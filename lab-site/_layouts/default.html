@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% assign document_title = page.title | default: site.title %}
+    {% assign document_description = page.description | default: site.description %}
+    <title>{{ document_title | escape }}</title>
+    <meta name="description" content="{{ document_description | strip_html | strip_newlines | escape }}">
+    <meta name="theme-color" content="#4A708B">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{ document_title | escape }}">
+    <meta property="og:description" content="{{ document_description | strip_html | strip_newlines | escape }}">
+    <meta property="og:site_name" content="{{ site.title | escape }}">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}?v={{ site.time | date: '%s' }}">
+    <script src="{{ '/assets/js/main.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="site-brand" href="#home">
+          <span class="brand-name">AIRE Lab — AI for a Resilient Earth</span>
+          <span class="brand-tagline"><em>Spatiotemporal AI for Science and Engineering</em></span>
+        </a>
+        <nav class="site-nav" aria-label="Main navigation">
+          <a href="#home" aria-current="location">Home</a>
+          <a href="#people">People</a>
+          <a href="#publications">Publications</a>
+          <a href="#opening">Opening</a>
+        </nav>
+      </div>
+    </header>
+    <main id="main" tabindex="-1">
+      {{ content }}
+    </main>
+  </body>
+</html>

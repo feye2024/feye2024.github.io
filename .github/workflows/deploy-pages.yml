@@ -1,0 +1,70 @@
+name: Deploy personal homepage and AIRE Lab
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: read
+    env:
+      JEKYLL_ENV: production
+    steps:
+      - name: Check out website sources
+        uses: actions/checkout@v6
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Set up Ruby for the personal homepage
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+
+      - name: Build the personal homepage
+        run: bundle exec jekyll build --config _config.yml --destination _site
+
+      - name: Set up dependencies for AIRE Lab
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+          working-directory: lab-site
+
+      - name: Build AIRE Lab into its public subdirectory
+        working-directory: lab-site
+        run: bundle exec jekyll build --config _config.yml --destination ../_site/aire-lab
+
+      - name: Check both websites and their local links
+        run: python3 scripts/check_site_build.py _site
+
+      - name: Upload both websites as one artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy both websites
+        id: deployment
+        uses: actions/deploy-pages@v4

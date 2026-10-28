@@ -1,0 +1,28 @@
+---
+layout: null
+permalink: /lab/
+title: "AIRE Lab - AI for a Resilient Earth"
+excerpt: "Spatiotemporal AI for Science and Engineering"
+author_profile: false
+sitemap: false
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AIRE Lab - AI for a Resilient Earth</title>
+  {% if site.lab_url and site.lab_url != '' %}
+  <meta http-equiv="refresh" content="0;url={{ site.lab_url | escape }}">
+  <link rel="canonical" href="{{ site.lab_url | escape }}">
+  {% endif %}
+</head>
+<body>
+  <h1>AIRE Lab - AI for a Resilient Earth</h1>
+  <p><em>Spatiotemporal AI for Science and Engineering</em></p>
+  {% if site.lab_url and site.lab_url != '' %}
+  <p><a href="{{ site.lab_url | escape }}">Visit AIRE Lab</a></p>
+  {% endif %}
+</body>
+</html>

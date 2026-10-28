@@ -1,0 +1,17 @@
+title: "AIRE Lab - AI for a Resilient Earth"
+description: "Spatiotemporal AI for Science and Engineering"
+url: "https://feye2024.github.io"
+baseurl: "/aire-lab"
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - run_server.sh
+  - README.md
+  - LICENSE
+  - NOTICE.md
+  - vendor
+  - .bundle

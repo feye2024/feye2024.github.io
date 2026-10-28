@@ -61,4 +61,16 @@
   }
 }
 
+.greedy-nav .visible-links .masthead__menu-item--lab > a::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: -1rem;
+  width: 1px;
+  height: 1em;
+  background-color: $light-gray;
+  transform: translateY(-50%);
+  pointer-events: none;
+}
+
 

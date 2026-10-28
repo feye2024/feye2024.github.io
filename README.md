@@ -58,6 +58,10 @@ Some examples:
 
 ## Debug Locally
 
+[本机预览使用说明（中文）](./docs/local-preview.md)
+
+This repository publishes Feng Ye's personal homepage at `https://feye2024.github.io/` and the independent AIRE Lab site at `https://feye2024.github.io/aire-lab/`. Pushes to `main` run `.github/workflows/deploy-pages.yml`, which builds both sites and deploys them together. Set the repository's **Settings → Pages → Source** to **GitHub Actions**. See the local preview guide above for editing and publishing instructions.
+
 1. Clone your REPO to local using `git clone`.
 1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements).
 1. Run `bash run_server.sh` to start Jekyll livereload server.

@@ -4,9 +4,13 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="{{ '/' | relative_url }}#about-me">Homepage</a></li>
           {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            {% assign link_url = link.url | relative_url %}
+            {% if link.site_url_key and site[link.site_url_key] and site[link.site_url_key] != '' %}
+              {% assign link_url = site[link.site_url_key] %}
+            {% endif %}
+            <li class="masthead__menu-item{% if link.site_url_key == 'lab_url' %} masthead__menu-item--lab{% endif %}"><a href="{{ link_url | escape }}"{% if link.target %} target="{{ link.target }}"{% endif %}{% if link.target == '_blank' %} rel="noopener noreferrer"{% endif %}>{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>

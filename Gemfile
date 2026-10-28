@@ -11,6 +11,9 @@ source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 
+# Required for the local preview server on Ruby 3 and newer.
+gem "webrick", "~> 1.9"
+
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 

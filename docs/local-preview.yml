@@ -1,0 +1,4 @@
+# Used only by run_server.sh; public builds use _config.yml alone.
+url: "http://127.0.0.1:4000"
+baseurl: ""
+lab_url: "http://127.0.0.1:4001/"
