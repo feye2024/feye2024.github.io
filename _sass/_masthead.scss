@@ -66,9 +66,9 @@
   position: absolute;
   top: 50%;
   left: -1rem;
-  width: 1px;
+  width: 2px;
   height: 1em;
-  background-color: $light-gray;
+  background-color: $gray;
   transform: translateY(-50%);
   pointer-events: none;
 }
